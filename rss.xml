@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jon Nicholson | PhD. FHEA. Coder. Academic. Gamer.]]></title><description><![CDATA[My personal, professional and academic portfolio]]></description><link>https://www.drjonnicholson.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Apr 2021 09:21:14 GMT</lastBuildDate><item><title><![CDATA[Vaporwave]]></title><description><![CDATA[It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical…]]></description><link>https://www.drjonnicholson.com/vaporwave/</link><guid isPermaLink="false">https://www.drjonnicholson.com/vaporwave/</guid><pubDate>Mon, 11 Nov 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It draws primarily on musical and cultural sources from the 1980s and early 1990s while also being associated with an ambiguous or satirical take on consumer capitalism and technoculture. Early incarnations of vaporwave relied on the sampling of sources such as Japanese city pop, smooth jazz, retro elevator music, R&amp;#x26;B, lounge music, and dance music from the 1980s and 1990s.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;See the &lt;a href=&quot;https://en.wikipedia.org/wiki/Vaporwave&quot;&gt;Wikipedia&lt;/a&gt; for more information.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://www.drjonnicholson.com/darkness/</link><guid isPermaLink="false">https://www.drjonnicholson.com/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
+&lt;p&gt;This is the final render.&lt;/p&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/071e2/BLACK_II_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeFcgg//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAXEAEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEBAAE/IYu11//aAAwDAQACAAMAAAAQ0M//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMVH/2gAIAQEAAT8QK8IaKDY3fSKmDE5st7P/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/53e9f/BLACK_II_desktop-1.webp 340w,
+/static/9d5a4783df570e5baa6b7bb091607efd/0991f/BLACK_II_desktop-1.webp 680w,
+/static/9d5a4783df570e5baa6b7bb091607efd/9d77c/BLACK_II_desktop-1.webp 1360w,
+/static/9d5a4783df570e5baa6b7bb091607efd/24475/BLACK_II_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/a0703/BLACK_II_desktop-1.jpg 340w,
+/static/9d5a4783df570e5baa6b7bb091607efd/5041d/BLACK_II_desktop-1.jpg 680w,
+/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg 1360w,
+/static/9d5a4783df570e5baa6b7bb091607efd/071e2/BLACK_II_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/071e2/BLACK_IX_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABwIAH/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABPyFf/9oADAMBAAIAAwAAABBjD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAAIDAQEAAAAAAAAAAAAAAAABETFRECH/2gAIAQEAAT8QhKzzGQtHff/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/53e9f/BLACK_IX_desktop-1.webp 340w,
+/static/4e0e77d8419b9f430960a99f16b48ace/0991f/BLACK_IX_desktop-1.webp 680w,
+/static/4e0e77d8419b9f430960a99f16b48ace/9d77c/BLACK_IX_desktop-1.webp 1360w,
+/static/4e0e77d8419b9f430960a99f16b48ace/24475/BLACK_IX_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/a0703/BLACK_IX_desktop-1.jpg 340w,
+/static/4e0e77d8419b9f430960a99f16b48ace/5041d/BLACK_IX_desktop-1.jpg 680w,
+/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg 1360w,
+/static/4e0e77d8419b9f430960a99f16b48ace/071e2/BLACK_IX_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/00ff909860392cb993579590db441a52/071e2/BLACK_I_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABw0UGUf/EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABcQAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQEAAT8hUwV//9oADAMBAAIAAwAAABCDD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAAMBAQEAAAAAAAAAAAAAAAABESEQMf/aAAgBAQABPxBKiYUehOvef//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/00ff909860392cb993579590db441a52/53e9f/BLACK_I_desktop-1.webp 340w,
+/static/00ff909860392cb993579590db441a52/0991f/BLACK_I_desktop-1.webp 680w,
+/static/00ff909860392cb993579590db441a52/9d77c/BLACK_I_desktop-1.webp 1360w,
+/static/00ff909860392cb993579590db441a52/24475/BLACK_I_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/00ff909860392cb993579590db441a52/a0703/BLACK_I_desktop-1.jpg 340w,
+/static/00ff909860392cb993579590db441a52/5041d/BLACK_I_desktop-1.jpg 680w,
+/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg 1360w,
+/static/00ff909860392cb993579590db441a52/071e2/BLACK_I_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Don't stop]]></title><description><![CDATA[Picasso had his pink period and his blue period. I am in my blonde period right now. When I first started wearing pink, it wasn’t nothing I…]]></description><link>https://www.drjonnicholson.com/dont-stop/</link><guid isPermaLink="false">https://www.drjonnicholson.com/dont-stop/</guid><pubDate>Tue, 07 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Picasso had his pink period and his blue period. I am in my blonde period right now.&lt;/h3&gt;
+&lt;p&gt;When I first started wearing pink, it wasn’t nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/071e2/ian-dooley-298771-unsplash-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB9SsrV0MDi2exYMef/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIQEQAgIf/aAAgBAQABBQKby4YcVTr/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAEQAv/aAAgBAwEBPwFjqf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABUQAQEAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/AnT/AP/EABsQAAICAwEAAAAAAAAAAAAAAAEQEVEAMWFx/9oACAEBAAE/IXUbwXU96wMyYcAUa9D/AP/aAAwDAQACAAMAAAAQrzax/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxApqLIv/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8QKf/EAB8QAQACAgEFAQAAAAAAAAAAAAEAESExEEFhcYGx0f/aAAgBAQABPxAhKjVAFOBag9FeM8Eqil03bgr3AFGOqWH7AjR7PpDbx//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/53e9f/ian-dooley-298771-unsplash-1.webp 340w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/0991f/ian-dooley-298771-unsplash-1.webp 680w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/9d77c/ian-dooley-298771-unsplash-1.webp 1360w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/24475/ian-dooley-298771-unsplash-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/a0703/ian-dooley-298771-unsplash-1.jpg 340w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/5041d/ian-dooley-298771-unsplash-1.jpg 680w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/fe1b8/ian-dooley-298771-unsplash-1.jpg 1360w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/071e2/ian-dooley-298771-unsplash-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/fe1b8/ian-dooley-298771-unsplash-1.jpg&quot;
+          alt=&quot;Don&apos;t stop&quot;
+          title=&quot;&quot;
+          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/fe1b8/ian-dooley-298771-unsplash-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eb49d6b0e91431744d4293eecda221ce/071e2/ian-dooley-298780-unsplash-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHr7MzpUBMKqymME//EABoQAAEFAQAAAAAAAAAAAAAAAAEAAhAREiD/2gAIAQEAAQUCm0w6Hf8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAEAER/9oACAEDAQE/AcKf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwJP/8QAGxAAAgMAAwAAAAAAAAAAAAAAAREAEEEhYZH/2gAIAQEAAT8hjrlCsW+0mVmwUOr/AP/aAAwDAQACAAMAAAAQw+cP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxAxqKr/xAAXEQEAAwAAAAAAAAAAAAAAAAAQARFR/9oACAECAQE/ELI0/8QAGxABAAIDAQEAAAAAAAAAAAAAAQAREEFRYZH/2gAIAQEAAT8QJSw7hQPJYdAVOFyO3zyGgNGuQhAoUGoY/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/53e9f/ian-dooley-298780-unsplash-1.webp 340w,
+/static/eb49d6b0e91431744d4293eecda221ce/0991f/ian-dooley-298780-unsplash-1.webp 680w,
+/static/eb49d6b0e91431744d4293eecda221ce/9d77c/ian-dooley-298780-unsplash-1.webp 1360w,
+/static/eb49d6b0e91431744d4293eecda221ce/24475/ian-dooley-298780-unsplash-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/a0703/ian-dooley-298780-unsplash-1.jpg 340w,
+/static/eb49d6b0e91431744d4293eecda221ce/5041d/ian-dooley-298780-unsplash-1.jpg 680w,
+/static/eb49d6b0e91431744d4293eecda221ce/fe1b8/ian-dooley-298780-unsplash-1.jpg 1360w,
+/static/eb49d6b0e91431744d4293eecda221ce/071e2/ian-dooley-298780-unsplash-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/fe1b8/ian-dooley-298780-unsplash-1.jpg&quot;
+          alt=&quot;Don&apos;t stop&quot;
+          title=&quot;&quot;
+          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/fe1b8/ian-dooley-298780-unsplash-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[It's all blue]]></title><link>https://www.drjonnicholson.com/its-all-blue/</link><guid isPermaLink="false">https://www.drjonnicholson.com/its-all-blue/</guid><pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQD/8QAFgEBAQEAAAAAAAAAAAAAAAAABAEC/9oADAMBAAIQAxAAAAHHeehYZBuf/8QAGxAAAQQDAAAAAAAAAAAAAAAAAgABAxAREjH/2gAIAQEAAQUCZSjrTdnLJL//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBL/2gAIAQMBAT8BAyz/xAAWEQEBAQAAAAAAAAAAAAAAAAABEDL/2gAIAQIBAT8BdE//xAAXEAADAQAAAAAAAAAAAAAAAAAAARAR/9oACAEBAAY/AhXJ/8QAGRABAQADAQAAAAAAAAAAAAAAAQARITFB/9oACAEBAAE/IYGgxknsdJj8El//2gAMAwEAAgADAAAAEBzf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAwEBPxCgeCh//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARYf/aAAgBAgEBPxBtBsf/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAxQVH/2gAIAQEAAT8QRMkVhW3uZlivpuAB+3uG7//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/53e9f/cody-davis-253925-unsplash.webp 340w,
+/static/9bd155b91c231debb6f82d7b9852fa76/0991f/cody-davis-253925-unsplash.webp 680w,
+/static/9bd155b91c231debb6f82d7b9852fa76/9d77c/cody-davis-253925-unsplash.webp 1360w,
+/static/9bd155b91c231debb6f82d7b9852fa76/24475/cody-davis-253925-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/a0703/cody-davis-253925-unsplash.jpg 340w,
+/static/9bd155b91c231debb6f82d7b9852fa76/5041d/cody-davis-253925-unsplash.jpg 680w,
+/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg 1360w,
+/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg&quot;
+          alt=&quot;It&apos;s all blue&quot;
+          title=&quot;&quot;
+          src=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b833f68b610104a59dcc9d3be77f6170/071e2/cody-davis-259003-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/9oADAMBAAIQAxAAAAHQXVHyykP/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIDEBH/2gAIAQEAAQUCxzmis2jwhtFNvn//xAAXEQADAQAAAAAAAAAAAAAAAAAAAhES/9oACAEDAQE/AauSn//EABYRAQEBAAAAAAAAAAAAAAAAABECEP/aAAgBAgEBPwEpz//EABcQAAMBAAAAAAAAAAAAAAAAAAECECH/2gAIAQEABj8CJa5f/8QAGBABAQEBAQAAAAAAAAAAAAAAAQAhEVH/2gAIAQEAAT8hNRh43d87O5XSQmvZv//aAAwDAQACAAMAAAAQaP8A/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxDQCdIV/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxCDu4RH/8QAGhABAQEBAAMAAAAAAAAAAAAAAREAITFBUf/aAAgBAQABPxBDIoBB77zElCD7irmULqRj5z0cLY5d3//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b833f68b610104a59dcc9d3be77f6170/53e9f/cody-davis-259003-unsplash.webp 340w,
+/static/b833f68b610104a59dcc9d3be77f6170/0991f/cody-davis-259003-unsplash.webp 680w,
+/static/b833f68b610104a59dcc9d3be77f6170/9d77c/cody-davis-259003-unsplash.webp 1360w,
+/static/b833f68b610104a59dcc9d3be77f6170/24475/cody-davis-259003-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b833f68b610104a59dcc9d3be77f6170/a0703/cody-davis-259003-unsplash.jpg 340w,
+/static/b833f68b610104a59dcc9d3be77f6170/5041d/cody-davis-259003-unsplash.jpg 680w,
+/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg 1360w,
+/static/b833f68b610104a59dcc9d3be77f6170/071e2/cody-davis-259003-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg&quot;
+          alt=&quot;It&apos;s all blue&quot;
+          title=&quot;&quot;
+          src=&quot;/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clean lines]]></title><link>https://www.drjonnicholson.com/clean-lines/</link><guid isPermaLink="false">https://www.drjonnicholson.com/clean-lines/</guid><pubDate>Sun, 05 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHjUglwM//EABgQAAIDAAAAAAAAAAAAAAAAAAACESAh/9oACAEBAAEFAlIyn//EABcRAAMBAAAAAAAAAAAAAAAAAAECECH/2gAIAQMBAT8BDZP/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAFhABAQEAAAAAAAAAAAAAAAAAMQAg/9oACAEBAAY/AiM//8QAGBABAQEBAQAAAAAAAAAAAAAAAREQAMH/2gAIAQEAAT8hNWVyr97c/9oADAMBAAIAAwAAABCH7//EABgRAAIDAAAAAAAAAAAAAAAAAAERELHR/9oACAEDAQE/EABFWR//xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8Qabn/xAAaEAEAAgMBAAAAAAAAAAAAAAABESEAEDFB/9oACAEBAAE/EHgFeLEYZokFsK0KccU+6//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6346e1b3959c2359992fc4a3055afae7/53e9f/clem-onojeghuo-207792-unsplash.webp 340w,
+/static/6346e1b3959c2359992fc4a3055afae7/0991f/clem-onojeghuo-207792-unsplash.webp 680w,
+/static/6346e1b3959c2359992fc4a3055afae7/9d77c/clem-onojeghuo-207792-unsplash.webp 1360w,
+/static/6346e1b3959c2359992fc4a3055afae7/24475/clem-onojeghuo-207792-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6346e1b3959c2359992fc4a3055afae7/a0703/clem-onojeghuo-207792-unsplash.jpg 340w,
+/static/6346e1b3959c2359992fc4a3055afae7/5041d/clem-onojeghuo-207792-unsplash.jpg 680w,
+/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg 1360w,
+/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg&quot;
+          alt=&quot;Clean lines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/071e2/mitch-lensink-588486-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAWd1smmJkI//xAAaEAEAAgMBAAAAAAAAAAAAAAABAgMAESIx/9oACAEBAAEFAlTDzLpyLXeqp8f/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8Bia//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAACAwAAAAAAAAAAAAAAAAABEQAQIf/aAAgBAQAGPwLA5tAApCN1/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAMRBRYXGR/9oACAEBAAE/IRHgjEER1i4ku4nhNKGsGjuf/9oADAMBAAIAAwAAABDnH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxA0TX//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qq4//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMYFBUXHB/9oACAEBAAE/ED6S41S9xMApobruMpt1eDp035Eo1v0RsVREgry8/s//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/53e9f/mitch-lensink-588486-unsplash.webp 340w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/0991f/mitch-lensink-588486-unsplash.webp 680w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/9d77c/mitch-lensink-588486-unsplash.webp 1360w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/24475/mitch-lensink-588486-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/a0703/mitch-lensink-588486-unsplash.jpg 340w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/5041d/mitch-lensink-588486-unsplash.jpg 680w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg 1360w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/071e2/mitch-lensink-588486-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg&quot;
+          alt=&quot;Clean lines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/73a290867a40d3234d026f7e40d5e362/071e2/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 61.1%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/2gAMAwEAAhADEAAAAc9tkctiBgP/xAAZEAACAwEAAAAAAAAAAAAAAAAAAQISIRH/2gAIAQEAAQUCSbHhpOKr0sz/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAhEh/9oACAEDAQE/AY6p/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEx/9oACAECAQE/AcV//8QAGhAAAQUBAAAAAAAAAAAAAAAAAQAQESExUf/aAAgBAQAGPwKAoJvixsb/xAAaEAEAAgMBAAAAAAAAAAAAAAABABExQVFx/9oACAEBAAE/IW6VGUzo01GzBBzNTwjD/9oADAMBAAIAAwAAABCXD//EABYRAQEBAAAAAAAAAAAAAAAAAAABcf/aAAgBAwEBPxCKbf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCmn//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQVGR/9oACAEBAAE/EDTA5eRjYw+GC5tGMHBS0X7yUBoVehsE0V8n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/73a290867a40d3234d026f7e40d5e362/53e9f/ricardo-gomez-angel-180819-unsplash.webp 340w,
+/static/73a290867a40d3234d026f7e40d5e362/0991f/ricardo-gomez-angel-180819-unsplash.webp 680w,
+/static/73a290867a40d3234d026f7e40d5e362/9d77c/ricardo-gomez-angel-180819-unsplash.webp 1360w,
+/static/73a290867a40d3234d026f7e40d5e362/24475/ricardo-gomez-angel-180819-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/73a290867a40d3234d026f7e40d5e362/a0703/ricardo-gomez-angel-180819-unsplash.jpg 340w,
+/static/73a290867a40d3234d026f7e40d5e362/5041d/ricardo-gomez-angel-180819-unsplash.jpg 680w,
+/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg 1360w,
+/static/73a290867a40d3234d026f7e40d5e362/071e2/ricardo-gomez-angel-180819-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+          alt=&quot;Clean lines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/071e2/joanna-kosinska-254406-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABBP/aAAwDAQACEAMQAAAB5FZpppI//8QAFRABAQAAAAAAAAAAAAAAAAAAASD/2gAIAQEAAQUCK//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABcQAQEBAQAAAAAAAAAAAAAAABEAEAH/2gAIAQEAAT8h4ZnHP//aAAwDAQACAAMAAAAQFz//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8Qla//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAYEAEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAQABPxBtZ1O5eZ79hlS3/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/53e9f/joanna-kosinska-254406-unsplash.webp 340w,
+/static/d85512b0b9ce8d33ff86606608d65c53/0991f/joanna-kosinska-254406-unsplash.webp 680w,
+/static/d85512b0b9ce8d33ff86606608d65c53/9d77c/joanna-kosinska-254406-unsplash.webp 1360w,
+/static/d85512b0b9ce8d33ff86606608d65c53/24475/joanna-kosinska-254406-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/a0703/joanna-kosinska-254406-unsplash.jpg 340w,
+/static/d85512b0b9ce8d33ff86606608d65c53/5041d/joanna-kosinska-254406-unsplash.jpg 680w,
+/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg 1360w,
+/static/d85512b0b9ce8d33ff86606608d65c53/071e2/joanna-kosinska-254406-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg&quot;
+          alt=&quot;Clean lines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><link>https://www.drjonnicholson.com/all-spikes/</link><guid isPermaLink="false">https://www.drjonnicholson.com/all-spikes/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/071e2/charles-deluvio-695757-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAAB11MjGtoFP//EABkQAAMBAQEAAAAAAAAAAAAAAAABAgMRIf/aAAgBAQABBQImu2P1YYvJn//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwFQf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAABAhARUf/aAAgBAQAGPwIlxVg9ar//xAAZEAACAwEAAAAAAAAAAAAAAAABEQAQIVH/2gAIAQEAAT8hiIxgqBnQUOpjwKv/2gAMAwEAAgADAAAAEAsf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EAKdn//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPxB0f//EABsQAQEAAwADAAAAAAAAAAAAAAERABAhMZGx/9oACAEBAAE/EFAqwxQ1ghLZX6aN7w3sY4RJ08DX/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/53e9f/charles-deluvio-695757-unsplash.webp 340w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/0991f/charles-deluvio-695757-unsplash.webp 680w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/9d77c/charles-deluvio-695757-unsplash.webp 1360w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/24475/charles-deluvio-695757-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/a0703/charles-deluvio-695757-unsplash.jpg 340w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/5041d/charles-deluvio-695757-unsplash.jpg 680w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/fe1b8/charles-deluvio-695757-unsplash.jpg 1360w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/071e2/charles-deluvio-695757-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/fe1b8/charles-deluvio-695757-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/fe1b8/charles-deluvio-695757-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/071e2/charles-deluvio-695736-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/2gAMAwEAAhADEAAAAdsRjjXeljmsGwJ//8QAHRAAAgIBBQAAAAAAAAAAAAAAAQIDEAAEERIxM//aAAgBAQABBQInYKeQyTz07GuwsapX/8QAFhEAAwAAAAAAAAAAAAAAAAAAAREg/9oACAEDAQE/AUY//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAgIDAAAAAAAAAAAAAAAAABABERIhQf/aAAgBAQAGPwKy4UmPHpf/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMSFhkf/aAAgBAQABPyEnWguCOpw0Up4gEPbCWDpjF39x/9oADAMBAAIAAwAAABBwH/3/xAAYEQEAAwEAAAAAAAAAAAAAAAABEBEhMf/aAAgBAwEBPxAbTkC1Uf/EABgRAAIDAAAAAAAAAAAAAAAAAAERICFB/9oACAECAQE/EGBWw//EABsQAQEBAAIDAAAAAAAAAAAAAAERABAhMUFR/9oACAEBAAE/EAealMvlGnBOoKj894JxIpfJpj7GETIACk7rrK7/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/53e9f/charles-deluvio-695736-unsplash.webp 340w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/0991f/charles-deluvio-695736-unsplash.webp 680w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/9d77c/charles-deluvio-695736-unsplash.webp 1360w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/24475/charles-deluvio-695736-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/a0703/charles-deluvio-695736-unsplash.jpg 340w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/5041d/charles-deluvio-695736-unsplash.jpg 680w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/fe1b8/charles-deluvio-695736-unsplash.jpg 1360w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/071e2/charles-deluvio-695736-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/fe1b8/charles-deluvio-695736-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/fe1b8/charles-deluvio-695736-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/216e61171daaf84611afdcd561d726fa/071e2/charles-deluvio-695758-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUBAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/2gAMAwEAAhADEAAAAa+ZMLqivNPscjTsPP8A/8QAGxABAAEFAQAAAAAAAAAAAAAAAQMAAgQQEhH/2gAIAQEAAQUC2oVDd1lVkHscR1LotDX/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEC/9oACAEDAQE/AUNwRf/EABcRAAMBAAAAAAAAAAAAAAAAAAEQEQL/2gAIAQIBAT8BRzTV/8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAIQIRcf/aAAgBAQAGPwJ2ZmdrkDoBf//EABwQAAIDAQADAAAAAAAAAAAAAAERABAhMUFhcf/aAAgBAQABPyGMNPaCsAHuBQVq3tMT51FE87RAIR2cdfBX/9oADAMBAAIAAwAAABBj03H/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QJisp/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QIg//xAAeEAEBAAICAgMAAAAAAAAAAAABEQAQIUExUWGBof/aAAgBAQABPxDKOUFS8zXzBJTHrfFicgJ70PaoH8cPlQb+tIgA+RMaVl7A1//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/53e9f/charles-deluvio-695758-unsplash.webp 340w,
+/static/216e61171daaf84611afdcd561d726fa/0991f/charles-deluvio-695758-unsplash.webp 680w,
+/static/216e61171daaf84611afdcd561d726fa/9d77c/charles-deluvio-695758-unsplash.webp 1360w,
+/static/216e61171daaf84611afdcd561d726fa/24475/charles-deluvio-695758-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/a0703/charles-deluvio-695758-unsplash.jpg 340w,
+/static/216e61171daaf84611afdcd561d726fa/5041d/charles-deluvio-695758-unsplash.jpg 680w,
+/static/216e61171daaf84611afdcd561d726fa/fe1b8/charles-deluvio-695758-unsplash.jpg 1360w,
+/static/216e61171daaf84611afdcd561d726fa/071e2/charles-deluvio-695758-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/216e61171daaf84611afdcd561d726fa/fe1b8/charles-deluvio-695758-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/216e61171daaf84611afdcd561d726fa/fe1b8/charles-deluvio-695758-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/13fcadf01630d17cd11157919feaa547/071e2/charles-deluvio-695733-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEEAv/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/9oADAMBAAIQAxAAAAHeZ86zoAzOe4waFl//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIRIAP/2gAIAQEAAQUCxzdyGVn/xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8BibP/xAAXEQEBAQEAAAAAAAAAAAAAAAABEBEC/9oACAECAQE/AQh3hk//xAAXEAADAQAAAAAAAAAAAAAAAAACIDBx/9oACAEBAAY/AkPYf//EABsQAQABBQEAAAAAAAAAAAAAAAEQABEgITFB/9oACAEBAAE/Icg+KAOibB5H/9oADAMBAAIAAwAAABAT5U7/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QXEJqGf/EABcRAAMBAAAAAAAAAAAAAAAAAAEQEVH/2gAIAQIBAT8QoCcVva//xAAZEAEBAQEBAQAAAAAAAAAAAAABERAAMZH/2gAIAQEAAT8Q6ioJT3bO2T8MF4TQFawlxBIlOHUA5//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/53e9f/charles-deluvio-695733-unsplash.webp 340w,
+/static/13fcadf01630d17cd11157919feaa547/0991f/charles-deluvio-695733-unsplash.webp 680w,
+/static/13fcadf01630d17cd11157919feaa547/9d77c/charles-deluvio-695733-unsplash.webp 1360w,
+/static/13fcadf01630d17cd11157919feaa547/24475/charles-deluvio-695733-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/a0703/charles-deluvio-695733-unsplash.jpg 340w,
+/static/13fcadf01630d17cd11157919feaa547/5041d/charles-deluvio-695733-unsplash.jpg 680w,
+/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg 1360w,
+/static/13fcadf01630d17cd11157919feaa547/071e2/charles-deluvio-695733-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Green]]></title><link>https://www.drjonnicholson.com/green/</link><guid isPermaLink="false">https://www.drjonnicholson.com/green/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dd82c627c6397daa9dacf5675967134b/071e2/chuttersnap-564286-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.55%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGziVI8mh//xAAcEAABAwUAAAAAAAAAAAAAAAABAAISAxARIjL/2gAIAQEAAQUCtJF20jit3//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAABACYf/aAAgBAQAGPwJnX//EABsQAQEAAgMBAAAAAAAAAAAAAAEAETEhQVGB/9oACAEBAAE/IbPOJA7JAPC2T4kbnRf/2gAMAwEAAgADAAAAEDcP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EFf/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhUTFBYZH/2gAIAQEAAT8QviPMKEw7iI+7UwQRY1QTM2gNAe9xjy+3k//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/dd82c627c6397daa9dacf5675967134b/53e9f/chuttersnap-564286-unsplash.webp 340w,
+/static/dd82c627c6397daa9dacf5675967134b/0991f/chuttersnap-564286-unsplash.webp 680w,
+/static/dd82c627c6397daa9dacf5675967134b/9d77c/chuttersnap-564286-unsplash.webp 1360w,
+/static/dd82c627c6397daa9dacf5675967134b/24475/chuttersnap-564286-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/dd82c627c6397daa9dacf5675967134b/a0703/chuttersnap-564286-unsplash.jpg 340w,
+/static/dd82c627c6397daa9dacf5675967134b/5041d/chuttersnap-564286-unsplash.jpg 680w,
+/static/dd82c627c6397daa9dacf5675967134b/fe1b8/chuttersnap-564286-unsplash.jpg 1360w,
+/static/dd82c627c6397daa9dacf5675967134b/071e2/chuttersnap-564286-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/dd82c627c6397daa9dacf5675967134b/fe1b8/chuttersnap-564286-unsplash.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/dd82c627c6397daa9dacf5675967134b/fe1b8/chuttersnap-564286-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c49f7fc564b6100900f07b238c32ad08/071e2/jazmin-quaynor-105210-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAAAAECAwQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2YbSDAD/xAAYEAEAAwEAAAAAAAAAAAAAAAACAAERIP/aAAgBAQABBQJbcBR5/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAgMAAAAAAAAAAAAAAAAAAAIgISL/2gAIAQEABj8Co00f/8QAGRABAQADAQAAAAAAAAAAAAAAAQAQESEx/9oACAEBAAE/ISScy/pOFt3/2gAMAwEAAgADAAAAEPDv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFBgaH/2gAIAQEAAT8QaLh1NbPGzFoWgBp4eufWDZerMI6n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c49f7fc564b6100900f07b238c32ad08/53e9f/jazmin-quaynor-105210-unsplash.webp 340w,
+/static/c49f7fc564b6100900f07b238c32ad08/0991f/jazmin-quaynor-105210-unsplash.webp 680w,
+/static/c49f7fc564b6100900f07b238c32ad08/9d77c/jazmin-quaynor-105210-unsplash.webp 1360w,
+/static/c49f7fc564b6100900f07b238c32ad08/24475/jazmin-quaynor-105210-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c49f7fc564b6100900f07b238c32ad08/a0703/jazmin-quaynor-105210-unsplash.jpg 340w,
+/static/c49f7fc564b6100900f07b238c32ad08/5041d/jazmin-quaynor-105210-unsplash.jpg 680w,
+/static/c49f7fc564b6100900f07b238c32ad08/fe1b8/jazmin-quaynor-105210-unsplash.jpg 1360w,
+/static/c49f7fc564b6100900f07b238c32ad08/071e2/jazmin-quaynor-105210-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c49f7fc564b6100900f07b238c32ad08/fe1b8/jazmin-quaynor-105210-unsplash.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c49f7fc564b6100900f07b238c32ad08/fe1b8/jazmin-quaynor-105210-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/071e2/josh-silver-730329-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2bK0yMwrB//EABkQAAMAAwAAAAAAAAAAAAAAAAACEwEQEv/aAAgBAQABBQKiFFKodZ3/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAABMiD/2gAIAQEABj8CpFIpY//EABsQAAICAwEAAAAAAAAAAAAAAAABESFBcdHx/9oACAEBAAE/IU7sUzRs9YTMkuFY22f/2gAMAwEAAgADAAAAEIT/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EKr/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxCq/8QAGhABAQEAAwEAAAAAAAAAAAAAAREAIUGBof/aAAgBAQABPxA6nDn1tGpsEHbERTVylqe7/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/53e9f/josh-silver-730329-unsplash.webp 340w,
+/static/f4fd4770aaee8d07614dbd372238c71e/0991f/josh-silver-730329-unsplash.webp 680w,
+/static/f4fd4770aaee8d07614dbd372238c71e/9d77c/josh-silver-730329-unsplash.webp 1360w,
+/static/f4fd4770aaee8d07614dbd372238c71e/24475/josh-silver-730329-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/a0703/josh-silver-730329-unsplash.jpg 340w,
+/static/f4fd4770aaee8d07614dbd372238c71e/5041d/josh-silver-730329-unsplash.jpg 680w,
+/static/f4fd4770aaee8d07614dbd372238c71e/fe1b8/josh-silver-730329-unsplash.jpg 1360w,
+/static/f4fd4770aaee8d07614dbd372238c71e/071e2/josh-silver-730329-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/fe1b8/josh-silver-730329-unsplash.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/fe1b8/josh-silver-730329-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/071e2/roman-bozhko-251947-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 67.95%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGzNdUIxkj/xAAaEAACAwEBAAAAAAAAAAAAAAABAgADEQQT/9oACAEBAAEFAp2DRixidsX1NgVH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABAhEQElH/2gAIAQEABj8CI4S6asqj/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERITFhsf/aAAgBAQABPyEW05FeTtEkpofiRUbvc//aAAwDAQACAAMAAAAQk+//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/ELWv/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBgZHh/9oACAEBAAE/EGIyFT4EOj1fs5aUF9UXC2fst6JpkJeTcU//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/53e9f/roman-bozhko-251947-unsplash.webp 340w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/0991f/roman-bozhko-251947-unsplash.webp 680w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/9d77c/roman-bozhko-251947-unsplash.webp 1360w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/24475/roman-bozhko-251947-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/a0703/roman-bozhko-251947-unsplash.jpg 340w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/5041d/roman-bozhko-251947-unsplash.jpg 680w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/fe1b8/roman-bozhko-251947-unsplash.jpg 1360w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/071e2/roman-bozhko-251947-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/fe1b8/roman-bozhko-251947-unsplash.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/fe1b8/roman-bozhko-251947-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Get fruity]]></title><link>https://www.drjonnicholson.com/get-fruity/</link><guid isPermaLink="false">https://www.drjonnicholson.com/get-fruity/</guid><pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/071e2/mike-dorner-173503-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 61.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHpS1KRNI//xAAYEAACAwAAAAAAAAAAAAAAAAAAAgEDIP/aAAgBAQABBQIh3azH/8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAEDAQE/AYh//8QAFhEAAwAAAAAAAAAAAAAAAAAAEBEh/9oACAECAQE/Aax//8QAGRAAAgMBAAAAAAAAAAAAAAAAAREAEiAx/9oACAEBAAY/ApVIDuf/xAAYEAADAQEAAAAAAAAAAAAAAAABEVEAIP/aAAgBAQABPyElC5JWHP8A/9oADAMBAAIAAwAAABB7H//EABYRAQEBAAAAAAAAAAAAAAAAABEhEP/aAAgBAwEBPxBgXP/EABURAQEAAAAAAAAAAAAAAAAAAEEQ/9oACAECAQE/EFJ//8QAGxABAAICAwAAAAAAAAAAAAAAARAhETEAQXH/2gAIAQEAAT8QuMK0B3zGGi1q9kA0BH//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/53e9f/mike-dorner-173503-unsplash.webp 340w,
+/static/7cba2b8e617762f18b27ff0f2581601b/0991f/mike-dorner-173503-unsplash.webp 680w,
+/static/7cba2b8e617762f18b27ff0f2581601b/9d77c/mike-dorner-173503-unsplash.webp 1360w,
+/static/7cba2b8e617762f18b27ff0f2581601b/24475/mike-dorner-173503-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/a0703/mike-dorner-173503-unsplash.jpg 340w,
+/static/7cba2b8e617762f18b27ff0f2581601b/5041d/mike-dorner-173503-unsplash.jpg 680w,
+/static/7cba2b8e617762f18b27ff0f2581601b/fe1b8/mike-dorner-173503-unsplash.jpg 1360w,
+/static/7cba2b8e617762f18b27ff0f2581601b/071e2/mike-dorner-173503-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/fe1b8/mike-dorner-173503-unsplash.jpg&quot;
+          alt=&quot;Fruits&quot;
+          title=&quot;&quot;
+          src=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/fe1b8/mike-dorner-173503-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/43d2b2b81944659e9a957960de8c4113/071e2/mike-dorner-173504-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 61.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBP/aAAwDAQACEAMQAAAB0YLDHYB//8QAGBAAAgMAAAAAAAAAAAAAAAAAAQIDICH/2gAIAQEAAQUCOBJQ1f/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAAAEAIDH/2gAIAQEABj8CmI1//8QAGBABAQADAAAAAAAAAAAAAAAAEQEAIGH/2gAIAQEAAT8htKJgsY5r/9oADAMBAAIAAwAAABB37//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxA1f//EABcRAAMBAAAAAAAAAAAAAAAAAAEQEUH/2gAIAQIBAT8QE1f/xAAbEAEBAAEFAAAAAAAAAAAAAAABEQAgITFBcf/aAAgBAQABPxDdVCw7xl+UDQPun//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/43d2b2b81944659e9a957960de8c4113/53e9f/mike-dorner-173504-unsplash.webp 340w,
+/static/43d2b2b81944659e9a957960de8c4113/0991f/mike-dorner-173504-unsplash.webp 680w,
+/static/43d2b2b81944659e9a957960de8c4113/9d77c/mike-dorner-173504-unsplash.webp 1360w,
+/static/43d2b2b81944659e9a957960de8c4113/24475/mike-dorner-173504-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/43d2b2b81944659e9a957960de8c4113/a0703/mike-dorner-173504-unsplash.jpg 340w,
+/static/43d2b2b81944659e9a957960de8c4113/5041d/mike-dorner-173504-unsplash.jpg 680w,
+/static/43d2b2b81944659e9a957960de8c4113/fe1b8/mike-dorner-173504-unsplash.jpg 1360w,
+/static/43d2b2b81944659e9a957960de8c4113/071e2/mike-dorner-173504-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/43d2b2b81944659e9a957960de8c4113/fe1b8/mike-dorner-173504-unsplash.jpg&quot;
+          alt=&quot;Fruits&quot;
+          title=&quot;&quot;
+          src=&quot;/static/43d2b2b81944659e9a957960de8c4113/fe1b8/mike-dorner-173504-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The fur series]]></title><link>https://www.drjonnicholson.com/fur/</link><guid isPermaLink="false">https://www.drjonnicholson.com/fur/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a1ebbea943f183782485fb7212e283bb/071e2/charles-deluvio-540415-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 129.29999999999998%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/9oADAMBAAIQAxAAAAHmuuGdekQaYSWlTsoFl//EABwQAAICAgMAAAAAAAAAAAAAAAECABEDMQQyM//aAAgBAQABBQKwIHSVDDpOp0mOwMZYRtcn3//EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMREiH/2gAIAQMBAT8BsvYNgito2XL0wgtI8E//xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEQEiH/2gAIAQIBAT8BheUpk//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAhARIUEDMWH/2gAIAQEABj8CzOV1NuONlW0Bo9McI1Scv//EACAQAAIBAwQDAAAAAAAAAAAAAAABESExcRBBUWGBkfH/2gAIAQEAAT8haMhjdrIw91usIu4koNYK3pJORF+GTh06qae4I8lnw4XR/9oADAMBAAIAAwAAABC7EDL/xAAdEQACAQQDAAAAAAAAAAAAAAAAAREhMUFhUZHR/9oACAEDAQE/EGdFFyRcLipGl2J8C2/T/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAGPHJYWHt//8QAHBABAAIDAQEBAAAAAAAAAAAAAQARIUFhUTGB/9oACAEBAAE/ECCUcilNnxKHDZpiWbAz1LY+B9JRC/WoKGTRW4Dr3gcG+IOSMGCPW3MFMjTTAYWTWi4XXsSqbDB0Awcn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a1ebbea943f183782485fb7212e283bb/53e9f/charles-deluvio-540415-unsplash.webp 340w,
+/static/a1ebbea943f183782485fb7212e283bb/0991f/charles-deluvio-540415-unsplash.webp 680w,
+/static/a1ebbea943f183782485fb7212e283bb/9d77c/charles-deluvio-540415-unsplash.webp 1360w,
+/static/a1ebbea943f183782485fb7212e283bb/24475/charles-deluvio-540415-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a1ebbea943f183782485fb7212e283bb/a0703/charles-deluvio-540415-unsplash.jpg 340w,
+/static/a1ebbea943f183782485fb7212e283bb/5041d/charles-deluvio-540415-unsplash.jpg 680w,
+/static/a1ebbea943f183782485fb7212e283bb/fe1b8/charles-deluvio-540415-unsplash.jpg 1360w,
+/static/a1ebbea943f183782485fb7212e283bb/071e2/charles-deluvio-540415-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a1ebbea943f183782485fb7212e283bb/fe1b8/charles-deluvio-540415-unsplash.jpg&quot;
+          alt=&quot;Cute dog&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a1ebbea943f183782485fb7212e283bb/fe1b8/charles-deluvio-540415-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c77583abe98a443b5f30befea3f88d09/071e2/charles-deluvio-540418-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.35%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAVpz9eVOQNJxNPpm4QP/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIDBCEQETP/2gAIAQEAAQUCFFviyySdV/Y5bbK4OUtD0Y/kf//EABYRAQEBAAAAAAAAAAAAAAAAAAECIP/aAAgBAwEBPwGQcf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMQIv/aAAgBAgEBPwGxmA5g3//EABsQAAICAwEAAAAAAAAAAAAAAAEQACERI0Ex/9oACAEBAAY/AnU2UR2FYxXZ4EF//8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBkaFxsf/aAAgBAQABPyHUaMIPNS6UvU8nlOvATuot6viGysspS230jchpInt/Zc//2gAMAwEAAgADAAAAEBvAgf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAIRD/2gAIAQMBAT8QQ1mN5//EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAECAQE/ELNKM4qPmf/EABwQAQEBAQADAQEAAAAAAAAAAAERACExQVGhsf/aAAgBAQABPxCnlgdL0VGTJNJTw6K4IKlr7c/AAKmIv49wLU6357yZ6vB9uCzip8GzPe39Fc5ciiPTORW3+mF3u//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c77583abe98a443b5f30befea3f88d09/53e9f/charles-deluvio-540418-unsplash.webp 340w,
+/static/c77583abe98a443b5f30befea3f88d09/0991f/charles-deluvio-540418-unsplash.webp 680w,
+/static/c77583abe98a443b5f30befea3f88d09/9d77c/charles-deluvio-540418-unsplash.webp 1360w,
+/static/c77583abe98a443b5f30befea3f88d09/24475/charles-deluvio-540418-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c77583abe98a443b5f30befea3f88d09/a0703/charles-deluvio-540418-unsplash.jpg 340w,
+/static/c77583abe98a443b5f30befea3f88d09/5041d/charles-deluvio-540418-unsplash.jpg 680w,
+/static/c77583abe98a443b5f30befea3f88d09/fe1b8/charles-deluvio-540418-unsplash.jpg 1360w,
+/static/c77583abe98a443b5f30befea3f88d09/071e2/charles-deluvio-540418-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c77583abe98a443b5f30befea3f88d09/fe1b8/charles-deluvio-540418-unsplash.jpg&quot;
+          alt=&quot;Cute dog&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c77583abe98a443b5f30befea3f88d09/fe1b8/charles-deluvio-540418-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/071e2/charles-deluvio-540420-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 123.6%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBQH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/2gAMAwEAAhADEAAAAe0zaZk1BAaz2a+iajDl/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAxESBBAh/9oACAEBAAEFAncIEcOsvJ34sHguGUpXRcRovX//xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDEBJh/9oACAEDAQE/AZTaZvwsx//EABwRAAEDBQAAAAAAAAAAAAAAAAEAAgMQESExMv/aAAgBAgEBPwFkLS3KMAv0odU//8QAHRAAAQMFAQAAAAAAAAAAAAAAAQAQEQIgITFBYf/aAAgBAQAGPwKSpDZ0qhxivTb/AP/EABsQAAIDAQEBAAAAAAAAAAAAAAABESExgXHB/9oACAEBAAE/IbGcFR9M3CMhXB+ySokeQsdBHyFU0bEf/9oADAMBAAIAAwAAABAH873/xAAYEQEBAAMAAAAAAAAAAAAAAAABABARIf/aAAgBAwEBPxDQCEkHRx//xAAZEQEAAgMAAAAAAAAAAAAAAAABABARITH/2gAIAQIBAT8QBPTAIwj3K//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESExQVGBcbH/2gAIAQEAAT8QDmhaAWsaY4slI9MKAoR0kqbVZnLz7FMd0AdZub6Q0rmUSraDyU1Z7b10H4QgFr2vM1/Z+L+zX2f/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/53e9f/charles-deluvio-540420-unsplash.webp 340w,
+/static/6dfa10d882f38682b5fef697d9eae25a/0991f/charles-deluvio-540420-unsplash.webp 680w,
+/static/6dfa10d882f38682b5fef697d9eae25a/9d77c/charles-deluvio-540420-unsplash.webp 1360w,
+/static/6dfa10d882f38682b5fef697d9eae25a/24475/charles-deluvio-540420-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/a0703/charles-deluvio-540420-unsplash.jpg 340w,
+/static/6dfa10d882f38682b5fef697d9eae25a/5041d/charles-deluvio-540420-unsplash.jpg 680w,
+/static/6dfa10d882f38682b5fef697d9eae25a/fe1b8/charles-deluvio-540420-unsplash.jpg 1360w,
+/static/6dfa10d882f38682b5fef697d9eae25a/071e2/charles-deluvio-540420-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/fe1b8/charles-deluvio-540420-unsplash.jpg&quot;
+          alt=&quot;Cute dog&quot;
+          title=&quot;&quot;
+          src=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/fe1b8/charles-deluvio-540420-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/071e2/charles-deluvio-547196-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.35%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAwUCBP/aAAwDAQACEAMQAAABsJJZz9U4J3Fn7KqHO4SB/8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIAAwQRMRAhI//aAAgBAQABBQLmuzLFuXEHYux501LsCMOMrqJr/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAxAREzH/2gAIAQMBAT8Bc0ni1TpsZ//EABwRAAIABwAAAAAAAAAAAAAAAAACAQMEEBEUMv/aAAgBAgEBPwFZLMuYWp+DXQ//xAAbEAACAQUAAAAAAAAAAAAAAAABEAAREiJRYf/aAAgBAQAGPwJi2ZAIHRnFQv8A/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITEQQZFR/9oACAEBAAE/IeT7wv1lFeLp6YgEbGYDuAZTHK/ZWGq6hOFjK0MBryZz/9oADAMBAAIAAwAAABDj7n3/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAEDAQE/EOgYKDf/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhYf/aAAgBAgEBPxABQex0bndP/8QAIBABAAICAgEFAAAAAAAAAAAAAQARITFBURBhcaHB0f/aAAgBAQABPxDznJKJVp6dEsWtj4IIYFickRYQWunH5M6Bt6pwdsHQKgoYPaH2UWPOZQUgcAwbRKK239E//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/53e9f/charles-deluvio-547196-unsplash.webp 340w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/0991f/charles-deluvio-547196-unsplash.webp 680w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/9d77c/charles-deluvio-547196-unsplash.webp 1360w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/24475/charles-deluvio-547196-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/a0703/charles-deluvio-547196-unsplash.jpg 340w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/5041d/charles-deluvio-547196-unsplash.jpg 680w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/fe1b8/charles-deluvio-547196-unsplash.jpg 1360w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/071e2/charles-deluvio-547196-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/fe1b8/charles-deluvio-547196-unsplash.jpg&quot;
+          alt=&quot;Cute dog&quot;
+          title=&quot;&quot;
+          src=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/fe1b8/charles-deluvio-547196-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://www.drjonnicholson.com/hi-folks/</link><guid isPermaLink="false">https://www.drjonnicholson.com/hi-folks/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+right at the coast of the Semantics, a large language ocean. A small river named
+Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
+&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
+Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
+didn’t listen. She packed her seven versalia, put her initial into the belt and
+made herself on the way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This however showed weasel&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Well uncritical so misled&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;this is very interesting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
+view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
+&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
+Lane. Pityful a rethoric question ran over her cheek, then she continued her
+way. On her way she met a copy.&lt;/p&gt;
+&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
+&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
+few insidious Copy Writers ambushed her, made her drunk with
+&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
+they abused her for their projects again and again. And if she hasn’t been
+rewritten, then they are still using her.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
+mouth. Even the all-powerful Pointing has no control about the blind texts it is
+an almost unorthographic life One day however a small line of blind text by the
+name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
+&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
+&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
+Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
+didn’t listen. She packed her seven versalia, put her initial into the belt and
+made herself on the way.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;So baboon this&lt;/li&gt;
+&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
+&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
+&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
+impassive fruitlessly shut&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
+back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
+Village and the subline of her own road, the Line Lane. Pityful a rethoric
+question ran over her cheek, then she continued her way. On her way she met a
+copy.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
+been rewritten a thousand times and everything that was left from its origin
+would be the word “and” and the Little Blind Text should turn around and
+return to its own, safe country.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
+few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
+and dragged her into their agency, where they abused her for their projects
+again and again. And if she hasn’t been rewritten, then they are still using
+her. Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts.&lt;/p&gt;
+&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
+&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
+large language ocean. A small river named Duden flows by their place and
+supplies it with the necessary regelialia. It is a paradisematic country, in
+which roasted parts of sentences fly into your mouth.&lt;/p&gt;
+&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
+almost unorthographic life One day however a small line of blind text by the
+name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
+advised her not to do so, because there were thousands of bad Commas, wild
+Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
+&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
+&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
+the way. When she reached the first hills of the Italic Mountains, she had a
+last view back on the skyline of her hometown Bookmarksgrove, the headline of
+Alphabet Village and the subline of her own road, the Line Lane. Pityful a
+rethoric question ran over her cheek, then she continued her way. On her way she
+met a copy.&lt;/p&gt;
+&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
+&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
+been rewritten a thousand times and everything that was left from its origin
+would be the word “and” and the Little Blind Text should turn around and return
+to its own, safe country. But nothing the copy said could convince her and so it
+didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
+with Longe and Parole and dragged her into their agency, where they abused her
+for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
+chicken eggs, though the…]]></description><link>https://www.drjonnicholson.com/my-second-post/</link><guid isPermaLink="false">https://www.drjonnicholson.com/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
+chicken eggs, though the taste and texture will be somewhat different, and the
+egg yolk will be less rich.”?
+(&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://www.drjonnicholson.com/hello-world/</link><guid isPermaLink="false">https://www.drjonnicholson.com/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
+eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+charcoal paste. The eggs may also be sold with the salted paste removed,
+wrapped in plastic, and vacuum packed. From the salt curing process, the
+salted duck eggs have a briny aroma, a gelatin-like egg white and a
+firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/41b60/salty_egg.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/53e9f/salty_egg.webp 340w,
+/static/8058f3f26913fea3b6a89a73344fe94a/0991f/salty_egg.webp 680w,
+/static/8058f3f26913fea3b6a89a73344fe94a/9d77c/salty_egg.webp 1360w,
+/static/8058f3f26913fea3b6a89a73344fe94a/27063/salty_egg.webp 2040w,
+/static/8058f3f26913fea3b6a89a73344fe94a/949af/salty_egg.webp 2048w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/a0703/salty_egg.jpg 340w,
+/static/8058f3f26913fea3b6a89a73344fe94a/5041d/salty_egg.jpg 680w,
+/static/8058f3f26913fea3b6a89a73344fe94a/fe1b8/salty_egg.jpg 1360w,
+/static/8058f3f26913fea3b6a89a73344fe94a/25fce/salty_egg.jpg 2040w,
+/static/8058f3f26913fea3b6a89a73344fe94a/41b60/salty_egg.jpg 2048w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/fe1b8/salty_egg.jpg&quot;
+          alt=&quot;Chinese Salty Egg&quot;
+          title=&quot;&quot;
+          src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/fe1b8/salty_egg.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>
