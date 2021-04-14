@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London After Midnight',
-  shortName: 'LAM',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-lam.vaporwavy.io', // Domain of your site without prefix!
+  name: 'Jon Nicholson | PhD. FHEA. Coder. Academic. Gamer.',
+  shortName: 'drjonnicholson',
+  description: 'My personal, professional and academic portfolio',
+  url: 'https://www.drjonnicholson.com', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Vaporwavy',
-  twitter: ''
+  author: 'Dr Jon Nicholson',
+  twitter: 'drjonnicholson'
 }
