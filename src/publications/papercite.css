@@ -1,0 +1,141 @@
+/* START PAPERCITE ORIGINAL CSS */
+.papercite_errors:before {
+  content: "Papercite errors";
+}
+
+.papercite_errors {
+  border: 1px solid red;
+  background: #eee;
+  padding: 5px;
+}
+
+.papercite_errors > div {
+  display: list-item;  
+}
+
+.papercite_bibtex {
+    display: none;
+}
+
+.papercite_bibtex pre {
+    white-space: pre-wrap;
+}
+
+.papercite_toggle:link, .papercite_toggle:visited {
+    color: gray;
+    text-decoration: none;
+}
+
+
+.papercite_link, .papercite_link:link, .papercite_link:visited {
+  color: #222;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+.papercite_info {
+  color: #555;
+}
+
+.papercite_highlight {
+  font-weight: bold;
+}
+
+span.papercite_checked_files 
+{
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid black;
+	font-size: 150%;
+	cursor: pointer;
+	background: #eee;
+	color: red;
+	border-radius: 3px;
+}
+
+/* END PAPERCITE ORIGINAL CSS */
+
+.papercite {
+	position: relative;
+}
+
+.papercite .papercite_heading {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 4em;
+	text-align: center;
+	background-color: #F0F0F0;
+	border-radius: 0.8em 0em 0em 0.8em;
+}
+
+.papercite .papercite_grouped {
+	margin-left: 4em;
+}
+
+.papercite_bibliography aside header {
+	font-weight: bold;
+}
+
+.papercite_controls {
+}
+
+.papercite_note, .papercite_abstract, .papercite_bibtex {
+	display: none;
+	margin: 1em;
+	padding: 1em;
+	background-color: #F0F0F0;
+	border-radius: 0.8em;
+	overflow: hidden;
+}
+
+.papercite_note p, .papercite_abstract blockquote {
+	font-size: 0.8em;
+	margin: 0em 2em;
+	padding: 0em;
+}
+
+.papercite_link, .papercite_link:link, .papercite_link:visited {
+	text-decoration: none;
+	font-size: 0.8em;
+}
+
+.papercite_toggle, .papercite_toggle:link, .papercite_toggle:visited {
+}
+
+ul.papercite_bibliography {}
+
+ul.papercite_bibliography li {
+	margin: 0.25em 0;
+}
+
+ul.papercite_bibliography li a img {
+	margin: 0px 2px;
+	padding: 0px;
+	border: 0px;
+	display: inline;
+	vertical-align: text-bottom;
+	background-color: transparent;
+}
+
+ul.papercite_bibliography li a.papercite_pdf img {
+	width: 16px;
+	height: 16px;
+}
+
+ul.papercite_bibliography li a.papercite_doi img {
+	width: 10px;
+	height: 10px;
+/* Adjust the padding to make the height of the image (10x10) equal to the PDF image (16x16) */
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.papercite_info {
+	color: #555;
+}
+
+.papercite_bibtex .wp_syntax {
+	margin: 0px;
+}

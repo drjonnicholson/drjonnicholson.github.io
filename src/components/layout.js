@@ -1,22 +1,26 @@
-import React from "react"
-import "./reset.css"
-import Navbar from "./Navbar"
-import Footer from "./Footer"
-import Seo from "../components/Seo/seo"
-import GlobalStyles from "../styles/GlobalStyles"
-import TypographyStyles from "../styles/TypographyStyles"
-import Logo from "../images/startup-logo.svg"
+import React, { useEffect } from 'react'
+import Container from 'react-bootstrap/Container'
+import Prism from 'prismjs'
+import Banner from './Banner'
+import Footer from './Footer'
+import Seo from './Seo'
+import '../styles/index.scss'
+import 'prismjs-bibtex'
 
 const Layout = ({ children }) => {
+  useEffect(() => {
+    Prism.highlightAll(false)
+  })
+
   return (
-    <>
+    <Container fluid className='line-numbers'>  
       <Seo />
-      <GlobalStyles />
-      <TypographyStyles />
-      <Navbar Logo={Logo} />
-      <div className="layout">{children}</div>
-      <Footer Logo={Logo} />
-    </>
+      <Banner />
+      <main>
+        {children}
+      </main>
+      <Footer />
+    </Container>
   )
 }
 
