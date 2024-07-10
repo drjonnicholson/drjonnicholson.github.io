@@ -1,0 +1,341 @@
+% Encoding: UTF-8
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%% CONVENTIONS
+%%% KEYS
+% Use all lower case of the form: first_author_surname_intials_of_paper_title, for example: A Author, Understanding OCL 2.0, 2006 -> author_uo2.0
+% If the paper title includes numbers, write the number, omit punctuation.
+% If another reference has the same key add _2 to the end of the new key (or a higher number if appropriate). Leave the original key(s) alone.
+%
+%
+%%% WHICH STYLE TO USE?
+% for conference papers use (at)conference
+% for journal papers use (at)article
+% for book chapters use (at)incollection
+% for books use (at)book
+% for Technical Reports use (at)techreport
+% for web sites use (at)misc
+%
+% Make sure all entries have page numbers
+% Where possible add DOI, URL and abstract
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% SUBMITTED
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% BOOKS AND CHAPTERS
+@book{eden_crboop,
+  author = "Amnon H. Eden and Jonathan Nicholson",
+  title = "Codecharts: Roadmaps and Blueprints for Object-Oriented Programs",
+  publisher = "Wiley-Blackwell",
+  isbn = "0470626941",
+  month = "apr",
+  year = "2011",
+  doi = "10.1002/9780470891032",
+  file = {eden_crboop.pdf},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% JOURNALS
+@article{eden_rtwttpt,
+  author = "Amnon H. Eden and Epameinondas Gasparis and Jon Nicholson and Rick Kazman",
+  title = "Round-trip engineering with the Two-Tier Programming Toolkit",
+  journal = "Software Quality Journal",
+  issn = "1573-1367",
+  month = "jun",
+  year = "2018",
+  volume = "26",
+  Number = "2",
+  pages = "249--271",
+  doi = "10.1007/s11219-017-9363-9",
+  abstract = "A major impediment to the long-term quality of large and complex programs is inconsistency between design and implementation. Conflicts between intent and execution are common because detecting them is laborious, error-prone, and poorly supported, and because the costs of continuously maintaining design documents outweigh immediate gains. A growing inconsistency between design and implementation results in software that is unpredictable and poorly understood. Round-trip engineering tools support an iterative process of detecting conflicts and resolving them by changing either the design or the implementation. We describe a Toolkit which supports a round-trip engineering of native Java programs without interfering with any existing practices, tools, or development environments, thereby posing a minimal barrier on adoption. The Toolkit includes a user-guided software visualization and design recovery tool, which generates Codecharts from source code. A ``round-trip'' process is possible because Codecharts visualizing source code can be edited to reflect the intended design, and the Verifier can detect conflicts between the intended and as-implemented design. We demonstrate each stage in this process, showing how the Toolkit effectively helps to close the gap between design and implementation, recreate design documentation, and maintaining consistency between intent and execution.",
+  file = {eden_rtwttpt.pdf},
+}
+
+@article{nicholson_avdpacs,
+  author = "Jon Nicholson and Amnon H. Eden and Rick Kazman and Epameinondas Gasparis",
+  title = "Automated verification of design patterns: A case study",
+  journal = "Science of Computer Programming",
+  volume = "80",
+  number = "Part B",
+  issn = "0167-6423",
+  month = "feb",
+  year = "2014",
+  pages = "211--222",
+  doi = "10.1016/j.scico.2013.05.007",
+  url = "http://www.sciencedirect.com/science/article/pii/S0167642313001354",
+  abstract = "Representing design decisions for complex software systems, tracing them to code, and enforcing them throughout the lifecycle are pressing concerns for software architects and developers. To be of practical use, specification and modeling languages for software design need to combine rigor with abstraction and simplicity, and be supported by automated design verification tools that require minimal human intervention. This paper examines closely the use of the visual language of Codecharts for representing design decisions and demonstrate the process of verifying the conformance of a program to the chart. We explicate the abstract semantics of segments of the Java package java.awt as a finite structure; specify the Composite design pattern as a Codechart and unpack it as a set of formulas; and prove that the structure representing the program satisfies the formulas. We also describe a set of tools for modeling design patterns with Codecharts and for verifying the conformance of native (plain) Java programs to the charts.",
+  note = "Originally published online (early access) in May 2013.",
+}
+
+@article{eden_mvoopc,
+  author = "Amnon H. Eden and Epameinondas Gasparis and Jonathan Nicholson and Rick Kazman",
+  title = "Modeling and visualizing object-oriented programs with Codecharts",
+  journal = "Formal Methods in System Design",
+  issn = "0925-9856",
+  volume = "43",
+  number = "1",
+  month = "jan",
+  year = "2013",
+  pages = "1--28",
+  publisher = "Springer",
+  doi = "10.1007/s10703-012-0181-1",
+  abstract = "Software design, development and evolution commonly require programmers to model design decisions, visualize implemented programs, and detect conflicts between design and implementation. However, common design notations rarely reconcile theoretical concerns for rigor and minimality with the practical concerns for abstraction, scalability and automated verifiability. The language of Codecharts was designed to overcome these challenges by narrowing its scope to visual specifications that articulate automatically-verifiable statements about the structure and organization of object-oriented programs. The tokens in its visual vocabulary stand for the building-blocks of object-oriented design, such as inheritance class hierarchies, sets of dynamically-bound methods, and their correlations. The formalism was tailored for those pragmatic concerns which arise from modeling class libraries and design patterns, and for visualizing programs of any size at any level of abstraction. We describe design verification, a process of proving or refuting that a Java program (i.e. its native code) conforms to the Codechart specifying it. We also describe a toolkit which supports modeling and visualization with Codecharts, as well as a fully-automated design verification tool. We conclude with empirical results which suggest gains in both speed and accuracy when using Codecharts in software design, development and evolution.",
+  file = {eden_mvoopc.pdf},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% CONFERENCES
+@inproceedings{nicholson_dxpddse,
+  author = "Jon Nicholson and Ian Tasker",
+  title = "DataExchange: Privacy by Design for Data Sharing in Education",
+  booktitle = "1st International Conference on the Frontiers and Advances in Data Science",
+  publisher = "IEEE",
+  address = "Xi'An, China",
+  month = "oct",
+  year = "2017",
+  doi = "10.1109/FADS.2017.8253202",
+  abstract = "The UK education data integration and sharing market has long been based on scope or object-level data sharing. However, this approach leaves openings for data leaks and may not be compatible with the forthcoming General Data Protection Regulation. We present DataExchange, a data integration and sharing platform designed around the concept of privacy by design. DataExchange makes use of internationally reviewed education data and communication open standards. DataExchange is based on attribute-level privacy controls which improves visibility of third party data requirements, ensures that third parties can only access the data they have explicit authorization for, and provides transparency as to what data is shared.",
+  file = {nicholson_dxpddse.pdf},
+}
+
+@inproceedings{delaney_gnled,
+  author = "Aidan Delaney and Eric Kow and Peter Chapman and Jon Nicholson",
+  title = "Generating and Navigating Large Euler Diagrams",
+  pages = "23--31",
+  booktitle = "4th International Workshop on Euler Diagrams",
+  publisher = "CEUR-WS.org",
+  series = "CEUR-WS",
+  volume = "1244",
+  address = "Melbourne, Australia",
+  month = "jul",
+  year = "2014",
+  note = "Workshop was part of the Diagrams 2014 conference.",
+}
+
+@inproceedings{nicholson_fsc_2,
+  author = "Jon Nicholson and Aidan Delaney and Gem Stapleton",
+  title = "Formalizing the Syntax of Codecharts",
+  pages = "181--184",
+  booktitle = "18th International Conference on Distributed Multimedia Systems",
+  publisher = "Knowledge Systems Institute",
+  address = "Miami Beach, FL, USA",
+  month = "aug",
+  year = "2012",
+  note = "Part of the 2012 International Workshop on Visual Languages and Computing (VLC2012)",
+}
+
+@inproceedings{nicholson_tctfl,
+  author = "Jonathan Nicholson",
+  title = "A Theory of Classes from the Theoretical Foundations of LePUS3",
+  booktitle = "13th International Conference on Formal Engineering Methods",
+  series = "Lecture Notes in Computer Science",
+  publisher = "Springer",
+  volume = "6991",
+  address = "Durham, UK",
+  month = "oct",
+  year = "2011",
+  pages = "522--536",
+  doi = "10.1007/978-3-642-24559-6_35",
+  abstract = "LePUS3 is a formal design description language for specifying decidable (i.e. automatically verifiable) properties of object-oriented design. LePUS3 has been successfully applied to both design verification and reverse engineering applications. However, LePUS3 is becoming over zealously pragmatic. Its current definition is inflexible, limiting is expressivity, extensibility and reasoning capabilities. We present a new theory of classes derived from the theoretical foundations of LePUS3, and defined in the Typed Predicate Logic. The expressive power of our theory is demonstrated by specifying and reasoning over design patterns.",
+}
+
+@inproceedings{nicholson_avdpl,
+  author = "Jonathan Nicholson and Epameinondas Gasparis and Amnon H. Eden and Rick Kazman",
+  title = "Automated Verification of Design Patterns with LePUS3",
+  pages = "76--85",
+  booktitle = "1st NASA Formal Methods Symposium",
+  publisher = "NASA",
+  volume = "NASA/CP-2009-215407",
+  address = "Moffett Field, California, USA",
+  month = "apr",
+  year = "2009",
+  abstract = "Specification and [visual] modelling languages are expected to combine strong abstraction mechanisms with rigour, scalability, and parsimony. LePUS3 is a visual, object-oriented design description language axiomatized in a decidable subset of the first-order predicate logic. We demonstrate how LePUS3 is used to formally specify a structural design pattern and prove ( verify ) whether any JavaTM 1.4 program satisfies that specification. We also show how LePUS3 specifications (charts) are composed and how they are verified fully automatically in the Two-Tier Programming Toolkit.",
+  file = {nicholson_avdpl.pdf},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% POSTERS
+@inproceedings{nicholson_lcwp,
+  author = "Jon Nicholson and Aidan Delaney and Gem Stapleton",
+  title = "Linking codecharts with programs",
+  pages = "259--260",
+  booktitle = "IEEE Symposium on Visual Languages and Human-Centric Computing",
+  publisher = "IEEE",
+  address = "Innsbruck, Austria",
+  month = "sep",
+  year = "2012",
+  doi = "10.1109/VLHCC.2012.6344543",
+  abstract = "Codecharts are expressively lightweight whilst sufficiently rich to develop insight into program design. This paper contributes an informal description of the semantics of codecharts using the abstract syntax defined in [Nicholson et al., Formalizing the Syntax of Codecharts]. Future work is to further formalize the semantics, define an inference system in which to prove soundness and completeness, and to investigate applications. In particular, we believe that some interesting program metrics, ascertaining program complexity or the level of dependencies and coupling present, can be readily defined and visualized using codecharts. For instance, we can make the area of an ellipse proportional the level of coupling, with relatively large ellipses indicating the need to consider refactoring. Such applications of codecharts could lead to improved software design and understanding.",
+  file = {nicholson_lcwp.pdf},
+}
+
+@inproceedings{nicholson_fsc,
+  author = "Jon Nicholson and Aidan Delaney",
+  title = "Formalising Simple Codecharts",
+  pages = "346--348",
+  booktitle = "7th International Conference on the Theory and Application of Diagrams",
+  series = "Lecture Notes in Computer Science",
+  publisher = "Springer",
+  volume = "7352",
+  address = "Canterbury, UK",
+  month = "jul",
+  year = "2012",
+  doi = "10.1007/978-3-642-31223-6_47",
+  abstract = "Codecharts are a formal diagrammatic language for specifying the structure of object-oriented design patterns, frameworks, and programs. Codecharts are attractive for applications in both forward (e.g. design verification) and reverse engineering (e.g. program visualization). Although the definition of Codecharts has been adequate for these applications, there is a need to develop the language further in more precise terms. This paper outlines our work in refining the definition of Codecharts. We informally describe the concrete syntax and semantics of Codecharts, and provide a new formal abstract syntax. We conclude with a brief discussion on future work.",
+  file = {nicholson_fsc.pdf},
+}
+
+@inproceedings{gasparis_dncjp,
+  author = "Epameinondas Gasparis and Amnon H. Eden and Jonathan Nicholson and Rick Kazman",
+  title = "The Design Navigator: Charting Java Programs",
+  pages = "945--946",
+  booktitle = "30th International Conference on Software Engineering",
+  publisher = "ACM",
+  address = "Leipzig, Germany",
+  month = "may",
+  year = "2008",
+  doi = "10.1145/1370175.1370200",
+  abstract = "The Design Navigator is a semi-automated design mining tool which reverse engineers LePUS3 design charts from JavaTM 1.4 programs at any level of abstraction in reasonable time. We demonstrate the Design Navigator's step-wise charting process of Java Foundation Classes, generating decreasingly abstract charts of java.awt and discovering building-blocks in its design.",
+  file = {gasparis_dncjp.pdf},
+}
+
+@inproceedings{gasparis_ntdoop,
+  author = "Epameinondas Gasparis and Jonathan Nicholson and Amnon H. Eden and Rick Kazman",
+  title = "Navigating Through the Design of Object-Oriented Programs",
+  pages = "331--332",
+  booktitle = "Working Conference on Reverse Engineering",
+  publisher = "IEEE Computer Society",
+  address = "Los Alamitos, CA, USA",
+  year = "2008",
+  doi = "10.1109/WCRE.2008.41",
+  abstract = "The design navigator is a tool for reverse-engineering object-oriented programs into charts at any level of abstraction. The design navigator discovers the object-oriented building blocks in the design of programs and visualises them in terms of LePUS3, a formal design description language. We demonstrate that program visualization in a formal language is not only possible in principle but also of practical benefit.",
+  file = {gasparis_ntdoop.pdf},
+}
+
+@inproceedings{gasparis_looddl,
+  author = "Epameinondas Gasparis and Jonathan Nicholson and Amnon H. Eden",
+  title = "LePUS3: An Object-Oriented Design Description Language",
+  pages = "364--367",
+  booktitle = "5th International Conference on the Theory and Application of Diagrams",
+  series = "Lecture Notes in Computer Science",
+  publisher = "Springer",
+  volume = "5223",
+  month = "sep",
+  year = "2008",
+  doi = "10.1007/978-3-540-87730-1_37",
+  abstract = "LePUS3 (lepus.org.uk) is a logic, visual, object-oriented Design Description Language: a formal specification language designed to capture and convey the building-blocks of object-oriented design. LePUS3 minimal vocabulary constitutes of abstraction mechanisms that can specify effectively and precisely design patterns and the design of JavaTM (C++, Smalltalk, etc.) programs at any level of abstraction.",
+  file = {gasparis_looddl.pdf},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% TECHNICAL REPORTS
+% techreport{nicholson_vlcssmasj14,
+%   author = "Jonathan Nicholson and Amnon H. Eden and Epameinondas Gasparis",
+%   title = "Verification of LePUS3/Class-Z Specifications: Sample models and Abstract Semantics for Java 1.4",
+%   type = "Technical Report",
+%   institution = "School of Computer Science and Electronic Engineering, University of Essex",
+%   number = "CSM-471, ISSN 1744-8050",
+%   address = "UK",
+%   month = "dec",
+%   year = "2007",
+%   abstract = "This document is a compendium of examples that describe the entities and relations that represent the abstract semantics ( finite structures ) of programs in the JavaTM programming language. It is designed to provide further explanation to the definitions given in the LePUS3 and Class-Z Reference manual [Eden et al. 2007 ]. To remind the reader, a finite structure is a simplified ('abstracted') picture of the program, which 'flattens' the knotty structure and syntax of the source code into a set of primitive entities (also called entities of dimension 0 ) and relations. Essentially, each finite structure can be viewed as a relational database, or a set of tables which contain tuples of entities ('records'). Below we list a few sample Java programs and the finite structure that represents them.",
+% }
+
+% techreport{eden_lcrm,
+%   author = "Amnon H. Eden and Epameinondas Gasparis and Jonathan Nicholson",
+%   title = "LePUS3 and Class-Z Reference Manual",
+%   type = "Technical Report",
+%   institution = "School of Computer Science and Electronic Engineering, University of Essex",
+%   number = "CSM-474, ISSN 1744-8050",
+%   address = "UK",
+%   month = "dec",
+%   year = "2007",
+%   abstract = "This document formally defines the elements in the syntax and the semantics of LePUS3 and the Class-Z specification languages. It was designed to satisfy the rigid requirements of mathematical logic, and it is therefore unsuitable for learning LePUS3 and Class-Z. To learn LePUS3 and Class-Z please see the Tutorial . To learn about the background and motivation see the About page. A legend offering a key to the language's symbols is also available.",
+% }
+
+% techreport{eden_gfcfsdplc,
+%   author = "Amnon H. Eden and Epameinondas Gasparis and Jonathan Nicholson",
+%   title = "The 'Gang of Four' Companion: Formal specification of design patterns in LePUS3 and Class-Z",
+%   type = "Technical Report",
+%   institution = "School of Computer Science and Electronic Engineering, University of Essex",
+%   number = "CSM-472, ISSN 1744-8050",
+%   address = "UK",
+%   month = "dec",
+%   year = "2007",
+%   abstract = "This document demonstrates how the informal specifications of the design patterns the 'Gang of Four' seminal catalogue [Gamma et al 1995] can be specified formally using the LePUS3 and Class-Z Design Description Languages.",
+% }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% DISSERTATIONS AND THESES
+@phdthesis{nicholson_phd,
+  author = "Jonathan Nicholson",
+  title = "On the Theoretical Foundations of LePUS3 and its Application to Object-Oriented Design Verification",
+  school = "University of Essex",
+  address = "Colchester, UK",
+  year = "2011",
+  note = "Achieved pass. Supervised by Professor Raymond Turner and Dr Amnon H. Eden. Examined by Professor Martin Henson and Professor Jonathan P. Bowen",
+  file = {nicholson_phd.pdf},
+}
+
+% mastersthesis{nicholson_msc,
+%   author = "Jonathan Nicholson",
+%   title = "Verification of Java implementations against Class-Z specifications",
+%   school = "University of Essex",
+%   address = "Colchester, UK",
+%   month = "sep",
+%   year = "2006",
+%   note = "Achieved pass with distinction. Supervised by Professor Raymond Turner and Dr Amnon H. Eden.",
+%   file = {nicholson_msc.pdf},
+% }
+
+% misc{nicholson_bsc,
+%   author = "Jonathan Nicholson",
+%   title = "An implementation of refactoring techniques in the Java language",
+%   howpublished = "Undergraduate Thesis, University of Essex, Colchester, UK",
+%   month = "mar",
+%   year = "2005",
+%   note = "Achieved first class with honours. Supervised by Dave Lyons. Winner of the prize for best final year project.",
+%   file = {nicholson_bsc.pdf},
+% }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% SEMINARS
+% misc{nicholson_mvoopc2,
+%   author = "Jonathan Nicholson",
+%   title = "Modeling and visualizing object-oriented programs with codecharts",
+%   publisher = "Hastings Research Seminar, University of Brighton, UK",
+%   month = "November",
+%   year = "2012",
+%   note = "A seminar about my PhD research at the time given to academics from multiple disciplines at the Hastings campus",
+%   file = {nicholson_mvoopc2.pdf},
+% }
+
+% misc{nicholson_qod,
+%   author = "Jonathan Nicholson",
+%   title = "Querying Ontologies with Diagrams",
+%   publisher = "Hastings Research Seminar, University of Brighton, UK",
+%   month = "February",
+%   year = "2015",
+%   note = "A seminar about my EPSRC First Grant proposal given to academics from multiple disciplines at the Hastings campus. Ultimately the grant proposal was rejected, but had some very positive feedback.",
+%   file = {nicholson_qod.pdf},
+% }
+
+% misc{nicholson_ertkt,
+%   author = "Jonathan Nicholson and Stelios Kapetanakis",
+%   title = "Enhance your research and teaching with knowledge transfer",
+%   publisher = "KTP Week, University of Brighton, UK",
+%   month = "November",
+%   year = "2014",
+%   note = "A short presentation given as part of KTP Week at the University of Brighton in the Hastings Campus. The talk covered my experiences with the Colony101 project.",
+% }
+
+% misc{nicholson_dc,
+%   author = "Jonathan Nicholson",
+%   title = "Degrees in Computing",
+%   publisher = "University of Brighton, UK",
+%   month = "September",
+%   year = "2013",
+%   note = "A short presentation given to year 12 college students at Bexhill 6th Form College (http://www.bexhillcollege.ac.uk/) as part of their University Progression Day. This talk was followed up by taster sessions in November of the same year. Although not related to my research or industry activities, I've included it here because I think it's a nice talk, the students responded to it well, and it may help other academics prepare similar talks.",
+%   file = {nicholson_dc.pdf},
+% }

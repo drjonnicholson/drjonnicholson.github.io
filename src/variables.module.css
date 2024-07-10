@@ -1,0 +1,27 @@
+/** Primary Colors */
+@value primary100: #007549;
+@value primary200: #31845b;
+@value primary300: #4e936e;
+@value primary400: #68a282;
+@value primary500: #81b196;
+@value primary600: #9ac1aa;
+
+/** Surface Colors */
+@value bodycolor: #b1b1b1;
+@value surface100: #2e3639;
+@value surface200: #42494c;
+@value surface300: #575e60;
+@value surface400: #6d7375;
+@value surface500: #84898b;
+@value surface600: #9b9fa1;
+
+/** Mixed Surface Colors */
+@value surfacemixed100: #2e3c3b;
+@value surfacemixed200: #424f4e;
+@value surfacemixed300: #576362;
+@value surfacemixed400: #6d7877;
+@value surfacemixed500: #848d8c;
+@value surfacemixed600: #9ba3a2;
+
+/** Sizes */
+@value containerwidth: 1000px;

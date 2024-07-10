@@ -1,0 +1,23 @@
+@value vars: "../variables.module.css";
+@value primary100, primary600, surface300, surface400, surface500, surfacemixed100, surfacemixed200, surfacemixed300, surfacemixed400, surfacemixed500, surfacemixed600 from vars;
+
+.publication {
+  margin-bottom: 1em;
+}
+
+.publication details > div {
+  background-color: surfacemixed600;
+  padding: 0.5em 1em;
+}
+
+.publication pre,
+.publication blockquote,
+.publication p,
+.publication ul {
+  padding: 0 1em 0.5em;
+  font-size: medium;
+}
+
+.publication pre {
+  overflow-x: scroll;
+}

@@ -1,0 +1,20 @@
+@value vars: "../variables.module.css";
+@value containerwidth from vars;
+
+.blurb {
+  composes: container block from global;
+}
+
+.blurb picture {
+  float: left;
+  padding: 0 1em 0.5em 0;
+  width: 16em;
+}
+
+@media only screen and (width <= containerwidth) {
+  .blurb picture {
+    float: none;
+    margin: 0 auto;
+    padding: 0 2em 1em;
+  }
+}

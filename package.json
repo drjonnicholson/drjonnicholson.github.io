@@ -1,76 +1,195 @@
 {
-  "name": "drjonnicholson.github.io",
-  "description": "Personal and professional portfolio",
+  "name": "drjonnicholson.com",
   "version": "1.0.0",
-  "author": "Dr Jon Nicholson (https://www.drjonnnicholson.com)",
-  "homepage": "https://www.drjonnicholson.com",
-  "keywords": [
-    "gatsby",
-    "portfolio"
-  ],
   "private": true,
-  "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby build && gh-pages -d public -b main"
-  },
-  "dependencies": {
-    "bootstrap": "^5.1.3",
-    "gatsby": "^4.6.2",
-    "gatsby-background-image": "^1.6.0",
-    "gatsby-plugin-image": "^2.6.0",
-    "gatsby-plugin-react-helmet": "^5.6.0",
-    "gatsby-plugin-sass": "^5.6.0",
-    "gatsby-plugin-sharp": "^4.6.0",
-    "gatsby-source-filesystem": "^4.6.0",
-    "gatsby-transformer-bibtex": "^0.1.4",
-    "gatsby-transformer-sharp": "^4.6.0",
-    "gbimage-bridge": "^0.2.1",
-    "global": "^4.4.0",
-    "human-list": "^0.0.1",
-    "humanparser": "^2.6.0",
-    "prismjs-bibtex": "^2.0.1",
-    "react": "^17.0.2",
-    "react-bootstrap": "^2.1.2",
-    "react-dom": "^17.0.2",
-    "react-helmet": "^6.1.0",
-    "react-highlight-words": "^0.17.0",
-    "react-icon-cloud": "^4.0.0",
-    "react-icons": "^4.3.1",
-    "react-syntax-highlighter": "^15.4.5",
-    "sass": "^1.49.7",
-    "simple-icons": "^6.8.0",
-    "url-join": "^4.0.1"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.2",
-    "babel-plugin-prismjs": "^2.1.0",
-    "babel-preset-gatsby": "^2.6.0",
-    "gatsby-plugin-manifest": "^4.6.0",
-    "gatsby-plugin-offline": "^5.6.0",
-    "gatsby-plugin-postcss": "^5.6.0",
-    "gatsby-plugin-purgecss": "^6.1.0",
-    "gatsby-plugin-sitemap": "^5.6.0",
-    "gh-pages": "^3.2.3",
-    "postcss-color-function": "^4.1.0",
-    "postcss-custom-properties": "^12.1.4",
-    "postcss-easy-import": "^3.0.0",
-    "prettier": "^2.5.1"
+  "description": "Dr Jon Nicholson's professional portfolio",
+  "keywords": [
+    "Jon Nicholson",
+    "Portfolio",
+    "Resume",
+    "CV",
+    "Publications"
+  ],
+  "homepage": "https://www.drjonnicholson.com",
+  "bugs": {
+    "url": "https://github.com/drjonnicholson/drjonnicholson.github.io/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/drjonnicholson/drjonnicholson.github.io.git"
   },
-  "bugs": {
-    "url": "https://github.com/drjonnicholson/drjonnicholson.github.io/issues"
+  "author": "Dr Jon Nicholson",
+  "type": "module",
+  "scripts": {
+    "prebuild": "node bin/bibtex.js && node bin/acclaim.js ",
+    "build": "cross-env NODE_ENV=production webpack bundle",
+    "deploy": "gh-pages -d build -b main",
+    "format": "prettier . --write --ignore-unknown",
+    "lint": "node bin/lint.js",
+    "prepare": "husky",
+    "start": "cross-env NODE_ENV=development webpack serve --open",
+    "test": "echo \"Write tests!\" && exit 1"
   },
-  "browserslist": [
-    "defaults",
-    "not IE 11",
-    "maintained node versions"
-  ]
+  "dependencies": {
+    "bibtex-js-parser": "^1.1.6"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "copy-webpack-plugin": "^12.0.2",
+    "cross-env": "^7.0.3",
+    "css-loader": "^7.1.2",
+    "esbuild-loader": "^4.2.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsdoc": "^48.5.2",
+    "eslint-plugin-json": "^4.0.0",
+    "eslint-plugin-jsx-a11y": "^6.9.0",
+    "eslint-plugin-markdown": "^5.0.0",
+    "eslint-plugin-react": "^7.34.3",
+    "eslint-plugin-react-perf": "^3.3.2",
+    "eslint-plugin-testing-library": "^6.2.2",
+    "globals": "^15.8.0",
+    "html-webpack-plugin": "^5.6.0",
+    "human-list": "^0.0.1",
+    "humanparser": "^2.7.0",
+    "husky": "^9.0.11",
+    "json5-loader": "^4.0.1",
+    "lint-staged": "^15.2.7",
+    "mini-css-extract-plugin": "^2.9.0",
+    "postcss": "^8.4.39",
+    "prettier": "^3.3.2",
+    "prettier-plugin-css-order": "^2.1.2",
+    "prettier-plugin-jsdoc": "^1.3.0",
+    "prettier-plugin-packagejson": "^2.5.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^2.0.5",
+    "react-highlight-words": "^0.20.0",
+    "react-icon-cloud": "^4.1.4",
+    "react-icons": "^5.2.1",
+    "simple-icons": "^13.1.0",
+    "style-loader": "^4.0.0",
+    "stylelint": "^16.6.1",
+    "stylelint-config-css-modules": "^4.4.0",
+    "stylelint-config-standard": "^36.0.1",
+    "stylelint-html-reporter": "^0.0.8",
+    "webpack": "^5.92.1",
+    "webpack-bundle-analyzer": "^4.10.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "about": [
+    "Jon Nicholson, PhD, is a distinguished full-stack software engineer and solutions architect with over two decades of experience. He excels in creating elegant data-driven solutions for complex business problems and has a strong background in mathematics and algorithms.",
+    "In his professional journey, Jon has consistently demonstrated a knack for innovation and leadership. Jon's blend of technical prowess and educational mentorship underscores his multifaceted approach to technology and learning",
+    "Jon is a Member of the IEEE and a Fellow of the Higher Education Academy. He resides in Bexhill (UK) with his family."
+  ],
+  "acclaim": {
+    "title": "Certifications",
+    "defaultSelected": "Click on a badge to learn more",
+    "credly": "drjonnicholson",
+    "verify": "Verify this certification"
+  },
+  "experience": {
+    "title": "Experience",
+    "foreword": null,
+    "afterword": null,
+    "content": [
+      "Jon is a Principal Solution Architect in the Digital Domain at Hastings Direct, managing a small team of architects who work closely with our senior leadership to support and drive strategic decision making. He has architected many high profile deliveries such as the digital transformation of claim notifications and post-notification handling. This has led to very positive customer engagement (increases in claims reported and managed digitally, without the need to call us) and customer satisfaction (improvements in NPS). Jon has won a number of deparmental awards for his contributions to the company and colleagues.",
+      "Previous to this Jon was in the UK Education Technology sector, primarily as a Full-Stack Developer working at prominant companies performing data interchange between schools and the digital tools they use. This involved working closely with School Management Information Service Providers and Software Vendors to create deep data-driven integrations aligning to a standardised data sets. During this time I also represented the UK on Access4Learning's Technical Working Group.",
+      "In a past life, Jon was an academic and Senior Lecturer. He holds a PhD in formal software design (specifically the visualization and verification of class-based object-oriented software), an MSc (distinction) in distributed information management systems and a BSC Hons (First class) in Computer Science all from the University of Essex. To date he has published in three high quality journals, 10 international conferences, and contributed to a book. Jon spent about five years at the University of Brighton teaching various Computer Science subjects, and was course leader for BSc hons Digital Games Production. He was twice nominated for Excellence in Facilitating and Enhancing Learning awards, and organised prominant events like the Hastings Game Jam for which he secured sponsorship from Studio Gobo, O'Reilly Media and GOG.com."
+    ]
+  },
+  "header": {
+    "title": "Dr Jon Nicholson FHEA",
+    "headline": "Coder. Architect. Academic. Gamer."
+  },
+  "publications": {
+    "title": "Selected publications",
+    "foreword": "Below are a selection of my publications",
+    "afterword": "This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.",
+    "highlight": [
+      "J. Nicholson"
+    ],
+    "order": [
+      "article",
+      "book",
+      "inproceedings",
+      "phdthesis"
+    ],
+    "humanize": {
+      "article": "Journals",
+      "book": "Books and book chapters",
+      "inproceedings": "Conferences and workshops",
+      "phdthesis": "PhD Thesis"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "defaultSelected": "Click on an icon to learn more",
+    "foreword": "Here's a small selection of my technical skills. Don't see what you're looking for? I'm happy to learn!",
+    "afterword": null,
+    "content": [
+      {
+        "text": "HTML5 and web technologies, focussing on W3C standards",
+        "icon": "html"
+      },
+      {
+        "text": "CSS including CSS Modules, SASS and LESS",
+        "icon": "css"
+      },
+      {
+        "text": "JavaScript in the browser",
+        "icon": "javascript"
+      },
+      {
+        "text": "React, although I've used other frameworks like VueJS",
+        "icon": "react"
+      },
+      {
+        "text": "NodeJS",
+        "icon": "nodejs"
+      },
+      {
+        "text": "Creating NPM packages ",
+        "icon": "npm"
+      },
+      {
+        "text": ".NET (C# / ASP / Core / Standard)",
+        "icon": "dotnet"
+      },
+      {
+        "text": "Java, a classic 😉",
+        "icon": "java"
+      },
+      {
+        "text": "Ruby (Rails)",
+        "icon": "ruby"
+      },
+      {
+        "text": "SQL in its various flavours (MySQL / MSSQL / Postgres / SQLite)",
+        "icon": "database"
+      },
+      {
+        "text": "GIT (not to mention CVS / Subversion)",
+        "icon": "git"
+      },
+      {
+        "text": "Shell scripting (CMD / Powershell / Bash / SH / etc.)",
+        "icon": "scripting"
+      },
+      {
+        "text": "API design and development across REST (OpenAPI), JSONRPC (OpenRPC), SOAP, etc.",
+        "icon": "api"
+      }
+    ]
+  },
+  "socials": {
+    "github": "drjonnicholson",
+    "linkedin": "drjonnicholson",
+    "researchgate": "Jon-Nicholson"
+  }
 }

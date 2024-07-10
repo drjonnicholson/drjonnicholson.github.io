@@ -1,36 +1,21 @@
-# www.drjonnicholson.com
+# drjonnicholson.com
 
-Gatsby-based personal and professional website.
+My personal and professional website, based on a Webpack build
 
-## Developing 
+## Developing
 
-Navigate into your new site’s directory and start it up.
-
-```sh
+```bash
 git clone git@github.com:drjonnicholson/drjonnicholson.github.io.git
 cd drjonnicholson.github.io/
-gatsby develop
+npm start
 ```
 
-The site is now running at `http://localhost:8000`!
+The site is now running at `http://localhost:3000`
 
-_Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
-
-### Upgrading to latest version of package dependencies
+## Upgrading to latest version of package dependencies
 
 ```sh
-npm install -g npm-check-updates  
+npm install -g npm-check-updates
 ncu --deep
 ncu -u
 ```
-
-### FontAwesome
-
-Remember to setup FontAwesome if you haven't already, e.g.
-
-```sh
-npm config set "@fortawesome:registry" https://npm.fontawesome.com/
-npm config set "//npm.fontawesome.com/:_authToken" <API TOKEN>
-```
-
-

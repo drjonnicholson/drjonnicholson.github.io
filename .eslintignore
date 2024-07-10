@@ -3,3 +3,5 @@ build
 reports
 .env.*
 *.log
+package-lock.json
+webpack.config.js

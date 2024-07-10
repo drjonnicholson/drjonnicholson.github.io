@@ -3,3 +3,4 @@ build
 reports
 .env.*
 *.log
+package-lock.json

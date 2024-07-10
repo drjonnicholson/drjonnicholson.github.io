@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@value vars: "./variables.module.css";
+@value surface600, bodycolor, containerwidth from vars;
+
+/*
+@import url(https://fonts.googleapis.com/css?family=Muli:200,300,400,700);
+$font-family-base: Muli;
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,700);
+$headings-font-family: Oswald;
+
+$enable-grid-classes: true;
+$primary: #2f3c48;
+$secondary: #6f7f8c;
+$success: #3e4d59;
+$danger: #cc330d;
+$info: #5c8f94;
+$warning: #6e9fa5;
+$light: #eceeec;
+$dark: #1e2b37;
+
+$enable-rounded: false;
+$enable-responsive-font-sizes: true;
+*/
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  vertical-align: baseline;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-size: 100%;
+}
+
+body {
+  font-size: 1.15rem;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  background-color: bodycolor;
+  min-width: 320px;
+  font-style: normal;
+  font-weight: 300;
+  font-family: 'Work Sans', sans-serif;
+  font-optical-sizing: auto;
+}
+
+details summary {
+  padding: 0.5em 1em;
+}
+
+details[open] summary {
+  background-color: surface600;
+}
+
+img,
+picture,
+video,
+canvas {
+  display: block;
+  max-width: 100%;
+}
+
+svg {
+  display: inline-block;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5em;
+  overflow-wrap: break-word;
+}
+
+strong {
+  font-weight: 500;
+}
+
+#root {
+  isolation: isolate;
+}
+
+:global .container {
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 2em;
+  max-width: containerwidth;
+}
+
+:global .block {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}

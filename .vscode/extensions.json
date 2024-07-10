@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "stylelint.vscode-stylelint",
+    "christian-kohler.npm-intellisense",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "clinyong.vscode-css-modules",
+    "andrewleedham.vscode-css-modules"
+  ]
+}
