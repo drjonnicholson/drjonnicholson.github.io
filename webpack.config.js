@@ -6,6 +6,7 @@ import CopyPlugin from 'copy-webpack-plugin'
 import { BundleAnalyzerPlugin } from 'webpack-bundle-analyzer'
 import { EsbuildPlugin } from 'esbuild-loader'
 import { resolve } from 'path'
+import ImageMinimizerPlugin from 'image-minimizer-webpack-plugin'
 
 /** @type {Record<string, 'none' | 'development' | 'production'>} */
 const modes = {
@@ -162,9 +163,8 @@ export default {
       },
       // Assets
       {
-        // Inline if not production, otherwise treat as externalised resources
-        test: /\.(png|jpg|jpeg|gif|svg|woff|woff2|eot|ttf|otf)$/i,
-        type: isProduction ? 'asset/resource' : 'asset/inline',
+        test: /\.(png|jpg|jpeg|gif|svg)$/i,
+        type: 'asset',
       },
     ],
   },
@@ -191,6 +191,44 @@ export default {
     usedExports: isProduction,
     minimize: isProduction,
     minimizer: [
+      new ImageMinimizerPlugin({
+        minimizer: {
+          implementation: ImageMinimizerPlugin.sharpMinify,
+          options: {
+            resize: {
+              enabled: true,
+            },
+            encodeOptions: {
+              // Your options for `sharp`
+              // https://sharp.pixelplumbing.com/api-output
+              jpeg: {
+                // https://sharp.pixelplumbing.com/api-output#jpeg
+                quality: 80,
+              },
+              webp: {
+                // https://sharp.pixelplumbing.com/api-output#webp
+                lossless: true,
+              },
+              avif: {
+                // https://sharp.pixelplumbing.com/api-output#avif
+                lossless: true,
+              },
+
+              // png by default sets the quality to 100%, which is same as lossless
+              // https://sharp.pixelplumbing.com/api-output#png
+              png: {
+                palette: true,
+                quality: 80,
+                progressive: true,
+              },
+
+              // gif does not support lossless compression at all
+              // https://sharp.pixelplumbing.com/api-output#gif
+              gif: {},
+            },
+          },
+        },
+      }),
       new EsbuildPlugin({
         target: jsconfig.compilerOptions.target,
         css: true,
