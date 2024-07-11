@@ -1,5 +1,5 @@
 @value vars: "../variables.module.css";
-@value primary100, primary600, surface100, surface300, surface400, surface500, surfacemixed100, surfacemixed200, surfacemixed300, surfacemixed400, surfacemixed500, surfacemixed600, containerwidth from vars;
+@value primary100, primary200, primary300, surface100, surface300, surface400, surface500, surfacemixed100, surfacemixed200, surfacemixed300, surfacemixed400, surfacemixed500, surfacemixed600, containerwidth from vars;
 
 .breakout {
   border-top: 1px solid surface100;
@@ -32,7 +32,10 @@
 }
 
 .skill {
-  color: surfacemixed100;
+  border-radius: 3px;
+  background-color: surfacemixed100;
+  padding: 5px;
+  color: primary300;
 }
 
 .detail {
