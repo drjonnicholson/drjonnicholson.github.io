@@ -1,5 +1,5 @@
 import About from './components/About'
-// import Acclaim from './components/Acclaim'
+import Acclaim from './components/Acclaim'
 import Experience from './components/Experience'
 import Footer from './components/Footer'
 import Header from './components/Header'
@@ -14,8 +14,8 @@ const App = () => {
         <About />
         <Skills />
         <Experience />
-        {/*<Acclaim />
-        <Publications />*/}
+        <Acclaim />
+        {/* <Publications /> */}
       </main>
       <Footer />
     </div>
