@@ -7,10 +7,16 @@ const App = lazy(() => import('./App'))
 const node = document.getElementById('root')
 const root = createRoot(node)
 
+// root.render(
+//   <StrictMode>
+//     <Suspense fallback={<Loader />}>
+//       <App />
+//     </Suspense>
+//   </StrictMode>,
+// )
+
 root.render(
-  <StrictMode>
-    <Suspense fallback={<Loader />}>
-      <App />
-    </Suspense>
-  </StrictMode>,
+  <Suspense fallback={<Loader />}>
+    <App />
+  </Suspense>,
 )
