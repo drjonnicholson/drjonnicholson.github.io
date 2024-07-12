@@ -1,4 +1,4 @@
-import Publication from './Publication'
+// import Publication from './Publication'
 import PropTypes from 'prop-types'
 
 const PublicationGroup = ({ title, content }) => {
@@ -6,9 +6,9 @@ const PublicationGroup = ({ title, content }) => {
     <div>
       <h3>{title}</h3>
       <ul>
-        {content.map((entry) => (
+        {/* {content.map((entry) => (
           <Publication key={entry.id} entry={entry} />
-        ))}
+        ))} */}
       </ul>
     </div>
   )
