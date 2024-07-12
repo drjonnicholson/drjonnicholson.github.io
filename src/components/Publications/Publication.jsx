@@ -1,5 +1,5 @@
-import styled from './Publication.module.css'
 import Entry from './Entry'
+import styled from './Publication.module.css'
 import PropTypes from 'prop-types'
 
 const Publication = ({ entry }) => {

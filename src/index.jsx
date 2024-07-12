@@ -1,9 +1,10 @@
-import { StrictMode, Suspense, lazy } from 'react'
-import { createRoot } from 'react-dom/client'
-import Loader from './components/Loader'
+// import { StrictMode, Suspense, lazy } from 'react'
+// import Loader from './components/Loader'
+import App from './App'
 import './index.module.css'
+import { createRoot } from 'react-dom/client'
 
-const App = lazy(() => import('./App'))
+// const App = lazy(() => import('./App'))
 const node = document.getElementById('root')
 const root = createRoot(node)
 
@@ -15,8 +16,10 @@ const root = createRoot(node)
 //   </StrictMode>,
 // )
 
-root.render(
-  <Suspense fallback={<Loader />}>
-    <App />
-  </Suspense>,
-)
+// root.render(
+//   <Suspense fallback={<Loader />}>
+//     <App />
+//   </Suspense>,
+// )
+
+root.render(<App />)

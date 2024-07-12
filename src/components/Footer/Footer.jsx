@@ -1,5 +1,5 @@
-import { name, author, homepage } from 'site-config'
 import styles from './Footer.module.css'
+import { author, homepage, name } from 'site-config'
 
 const Footer = () => (
   <div className={styles.footer}>

@@ -1,7 +1,7 @@
-import { useCallback, useState } from 'react'
-import { skills } from 'site-config'
 import Icon from '../Icon/Icon'
 import styles from './Skills.module.css'
+import { useCallback, useState } from 'react'
+import { skills } from 'site-config'
 
 const Skills = () => {
   const [selected, setSelected] = useState(skills.defaultSelected)

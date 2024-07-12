@@ -17,7 +17,7 @@ export default {
   trailingComma: 'all',
   useTabs: false,
   vueIndentScriptAndStyle: false,
-  // // Settings for https://github.com/trivago/prettier-plugin-sort-imports
+  // Settings for https://github.com/trivago/prettier-plugin-sort-imports
   // importOrder: ['^[rR]eact(.*)$', '<THIRD_PARTY_MODULES>', '^[../]', '^[./]'],
   // importOrderSeparation: false,
   // importOrderSortSpecifiers: true,
@@ -28,5 +28,6 @@ export default {
     'prettier-plugin-css-order',
     './node_modules/prettier-plugin-jsdoc/dist/index.js',
     'prettier-plugin-packagejson',
+    // '@trivago/prettier-plugin-sort-imports',
   ],
 }

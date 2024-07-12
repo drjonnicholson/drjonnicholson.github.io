@@ -1,4 +1,5 @@
-import { FaLinkedin, FaRegCircleQuestion, FaSquareGithub, FaResearchgate } from 'react-icons/fa6'
+import PropTypes from 'prop-types'
+import { AiTwotoneApi } from 'react-icons/ai'
 import {
   DiCss3,
   DiDatabase,
@@ -13,8 +14,7 @@ import {
   DiRuby,
   DiTerminal,
 } from 'react-icons/di'
-import { AiTwotoneApi } from 'react-icons/ai'
-import PropTypes from 'prop-types'
+import { FaLinkedin, FaRegCircleQuestion, FaResearchgate, FaSquareGithub } from 'react-icons/fa6'
 
 const Icon = ({ name, ...props }) => {
   switch (name) {

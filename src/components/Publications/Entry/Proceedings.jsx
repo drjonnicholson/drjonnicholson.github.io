@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types'
 import { asMonth, quoteTitle } from '../../../utils'
 import Authors from './Authors'
+import PropTypes from 'prop-types'
 
 const Proceedings = ({ entry }) => (
   <>

@@ -1,5 +1,5 @@
-import { experience } from 'site-config'
 import styles from './Experience.module.css'
+import { experience } from 'site-config'
 
 const Experience = () => {
   return (

@@ -1,6 +1,6 @@
-import { header } from 'site-config'
-import styles from './Header.module.css'
 import Socials from '../Socials/Socials'
+import styles from './Header.module.css'
+import { header } from 'site-config'
 
 const Header = () => {
   return (

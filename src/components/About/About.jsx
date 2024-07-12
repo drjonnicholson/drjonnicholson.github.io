@@ -1,6 +1,6 @@
-import { author, about } from 'site-config'
-import avatar01 from './images/01.png?width=230'
 import styles from './About.module.css'
+import avatar01 from './images/01.png?width=230'
+import { about, author } from 'site-config'
 
 const About = () => {
   return (

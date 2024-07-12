@@ -1,11 +1,11 @@
-import Proceedings from './Proceedings'
 import Book from './Book'
-import InCollection from './InCollection'
-import Periodical from './Periodical'
 import Conference from './Conference'
+import InCollection from './InCollection'
 import InProceedings from './InProceedings'
-import Thesis from './Thesis'
+import Periodical from './Periodical'
+import Proceedings from './Proceedings'
 import TechReport from './TechReport'
+import Thesis from './Thesis'
 import PropTypes from 'prop-types'
 
 const Entry = ({ entry }) => {

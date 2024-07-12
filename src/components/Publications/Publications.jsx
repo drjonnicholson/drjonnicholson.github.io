@@ -1,7 +1,7 @@
-import { publications as config } from 'site-config'
 import publications from '../../publications.json'
-import styles from './Publications.module.css'
 import PublicationGroup from './PublicationGroup'
+import styles from './Publications.module.css'
+import { publications as config } from 'site-config'
 
 const Publications = () => {
   return (

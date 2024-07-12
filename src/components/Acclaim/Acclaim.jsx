@@ -1,7 +1,7 @@
-import { acclaim as config } from 'site-config'
-import { useCallback, useMemo, useState } from 'react'
 import acclaim from '../../acclaim.json'
 import styles from './Acclaim.module.css'
+import { useCallback, useMemo, useState } from 'react'
+import { acclaim as config } from 'site-config'
 
 const Acclaim = () => {
   const [selected, setSelected] = useState(null)

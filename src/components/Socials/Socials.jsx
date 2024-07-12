@@ -1,8 +1,8 @@
-import { socials } from 'site-config'
+import { getSocialDetail } from '../../utils'
 import SocialLink from './SocialLink'
 import styles from './Socials.module.css'
 import { useMemo } from 'react'
-import { getSocialDetail } from '../../utils'
+import { socials } from 'site-config'
 
 const Socials = () => {
   const details = useMemo(() => {

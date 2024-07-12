@@ -1,11 +1,10 @@
 #!/usr/bin/env node
-
-import { readFileSync, writeFileSync } from 'fs'
 import pkg from '../package.json'
 import { BibtexParser } from 'bibtex-js-parser'
-import { resolve } from 'path'
+import { readFileSync, writeFileSync } from 'fs'
 import { andList } from 'human-list'
 import humanparser from 'humanparser'
+import { resolve } from 'path'
 
 const bibtex = readFileSync(resolve('./public/publications/research.bib')).toString('utf-8')
 const json = BibtexParser.parseToJSON(bibtex)

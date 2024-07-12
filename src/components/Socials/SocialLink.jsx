@@ -1,5 +1,5 @@
-import PropTypes from 'prop-types'
 import Icon from '../Icon/Icon'
+import PropTypes from 'prop-types'
 
 const SocialLink = ({ type, title, href }) => {
   return (

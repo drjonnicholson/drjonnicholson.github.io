@@ -1,7 +1,6 @@
 #!/usr/bin/env node
-
-import { writeFileSync } from 'fs'
 import pkg from '../package.json'
+import { writeFileSync } from 'fs'
 import { resolve } from 'path'
 
 const download = async () => {
