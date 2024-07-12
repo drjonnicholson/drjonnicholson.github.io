@@ -1,11 +1,12 @@
 // import { asMonth, quoteTitle } from '../../../utils'
+import { quoteTitle } from '../../../utils'
 import Authors from './Authors'
 import PropTypes from 'prop-types'
 
 const Periodical = ({ entry }) => (
   <>
     <Authors>{entry.author}</Authors>,{' '}
-    {/* {quoteTitle(entry.title, [entry.journal, entry.volume, entry.number, entry.pages, entry.month, entry.year])}{' '} */}
+    {quoteTitle(entry.title, [entry.journal, entry.volume, entry.number, entry.pages, entry.month, entry.year])}{' '}
     {/* {entry.journal && (
       <>
         <i>{entry.journal}</i>,{' '}
