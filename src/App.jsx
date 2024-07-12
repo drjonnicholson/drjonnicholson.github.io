@@ -3,7 +3,7 @@ import Acclaim from './components/Acclaim'
 import Experience from './components/Experience'
 import Footer from './components/Footer'
 import Header from './components/Header'
-// import Publications from './components/Publications'
+import Publications from './components/Publications'
 import Skills from './components/Skills'
 
 const App = () => {
@@ -15,7 +15,7 @@ const App = () => {
         <Skills />
         <Experience />
         <Acclaim />
-        {/* <Publications /> */}
+        <Publications />
       </main>
       <Footer />
     </div>
