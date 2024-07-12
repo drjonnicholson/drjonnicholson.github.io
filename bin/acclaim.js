@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import pkg from '../package.json'
+import pkg from '../package.json' with { type: 'json' }
 import { writeFileSync } from 'fs'
 import { resolve } from 'path'
 

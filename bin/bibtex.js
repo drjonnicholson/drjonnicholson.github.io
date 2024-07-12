@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import pkg from '../package.json'
+import pkg from '../package.json' with { type: 'json' }
 import { BibtexParser } from 'bibtex-js-parser'
 import { readFileSync, writeFileSync } from 'fs'
 import { andList } from 'human-list'
