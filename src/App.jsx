@@ -4,7 +4,7 @@ import About from './components/About'
 import Footer from './components/Footer'
 import Header from './components/Header'
 // import Publications from './components/Publications'
-// import Skills from './components/Skills'
+import Skills from './components/Skills'
 
 const App = () => {
   return (
@@ -12,8 +12,8 @@ const App = () => {
       <Header />
       <main>
         <About />
-        {/*
         <Skills />
+        {/*
         <Experience />
         <Acclaim />
         <Publications />*/}
