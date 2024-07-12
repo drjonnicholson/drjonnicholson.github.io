@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'
-import { AiTwotoneApi } from 'react-icons/ai'
+import { AiFillApi } from 'react-icons/ai'
 import {
   DiCss3,
   DiDatabase,
@@ -14,7 +14,7 @@ import {
   DiRuby,
   DiTerminal,
 } from 'react-icons/di'
-import { FaLinkedin, FaRegCircleQuestion, FaResearchgate, FaSquareGithub } from 'react-icons/fa6'
+import { FaLinkedin, FaRegCircleQuestion, FaResearchgate, FaSquareGithub, FaArrowDownUpLock } from 'react-icons/fa6'
 
 const Icon = ({ name, ...props }) => {
   switch (name) {
@@ -49,7 +49,9 @@ const Icon = ({ name, ...props }) => {
     case 'database':
       return <DiDatabase {...props} />
     case 'api':
-      return <AiTwotoneApi {...props} />
+      return <AiFillApi {...props} />
+    case 'security':
+      return <FaArrowDownUpLock {...props} />
   }
   return <FaRegCircleQuestion {...props} />
 }

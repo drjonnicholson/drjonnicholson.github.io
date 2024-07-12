@@ -138,27 +138,27 @@
     "afterword": null,
     "content": [
       {
-        "text": "HTML5 and web technologies, focussing on W3C standards",
+        "text": "HTML5 and web technologies, focussing on W3C standards and Semantic HTML",
         "icon": "html"
       },
       {
-        "text": "CSS including CSS Modules, SASS and LESS",
+        "text": "CSS including CSS Modules, SASS, and LESS",
         "icon": "css"
       },
       {
-        "text": "JavaScript in the browser",
+        "text": "JavaScript in the browser, from vanilla JS through to browserlist driven babel / webpack builds",
         "icon": "javascript"
       },
       {
-        "text": "React, although I've used other frameworks like VueJS",
+        "text": "React, with production experience with  other frameworks like VueJS",
         "icon": "react"
       },
       {
-        "text": "NodeJS",
+        "text": "NodeJS, mainly creaitng scripts / CLI tools, with some server-side programming thrown in the mix",
         "icon": "nodejs"
       },
       {
-        "text": "Creating NPM packages ",
+        "text": "Creating NPM packages, on both public and private repositories",
         "icon": "npm"
       },
       {
@@ -166,11 +166,11 @@
         "icon": "dotnet"
       },
       {
-        "text": "Java, a classic 😉",
+        "text": "Java, a classic 😉, the main language used through academia with data structure and algorithm principles applicable to all languages",
         "icon": "java"
       },
       {
-        "text": "Ruby (Rails)",
+        "text": "Ruby (Rails) mainly used to build highly performant APIs when working in EdTech",
         "icon": "ruby"
       },
       {
@@ -178,16 +178,20 @@
         "icon": "database"
       },
       {
-        "text": "GIT (not to mention CVS / Subversion)",
+        "text": "GIT for version control for a good decade, not to mention CVS / Subversion",
         "icon": "git"
       },
       {
-        "text": "Shell scripting (CMD / Powershell / Bash / SH / etc.)",
+        "text": "Shell Scripting (CMD / Powershell / Bash / SH / etc.) to automate basic and repetitive tasks",
         "icon": "scripting"
       },
       {
-        "text": "API design and development across REST (OpenAPI), JSONRPC (OpenRPC), SOAP, etc.",
+        "text": "Strong API design and development background across REST (OpenAPI), GraphQL, JSONRPC (OpenRPC), SOAP, etc.",
         "icon": "api"
+      },
+      {
+        "text": "Secure by design / data protection by design and default",
+        "icon": "security"
       }
     ]
   },

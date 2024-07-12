@@ -1,10 +1,10 @@
 @value vars: "../../variables.module.css";
-@value primary300, surface100, surface300, surface500, surfacemixed100, containerwidth from vars;
+@value primary300, surface100, surface300, surface600, surfacemixed100, containerwidth from vars;
 
 .breakout {
   border-top: 1px solid surface100;
   border-bottom: 1px solid surface100;
-  background-color: surface500;
+  background-color: surface600;
 }
 
 .skills {
