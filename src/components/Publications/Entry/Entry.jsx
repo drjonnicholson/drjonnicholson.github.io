@@ -2,7 +2,7 @@
 // import Conference from './Conference'
 // import InCollection from './InCollection'
 // import InProceedings from './InProceedings'
-import Periodical from './Periodical'
+// import Periodical from './Periodical'
 // import Proceedings from './Proceedings'
 // import TechReport from './TechReport'
 // import Thesis from './Thesis'
@@ -35,7 +35,8 @@ const Entry = ({ entry }) => {
   //   case 'techreport':
   //     return <TechReport entry={entry} />
   // }
-  return <Periodical entry={entry} />
+  // return <Periodical entry={entry} />
+  return entry.title
 }
 
 Entry.propTypes = {
