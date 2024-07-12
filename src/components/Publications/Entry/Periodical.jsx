@@ -15,7 +15,7 @@ const Periodical = ({ entry }) => {
   const volume = entry.volume ? `vol. ${entry.volume}, ` : ''
   const number = entry.number ? `no. ${entry.number}, ` : ''
   const pages = entry.pages ? `pp. ${entry.pages}, ` : ''
-  const month = entry.month ? `${asMonth(entry.month)} ` : ''
+  const month = entry.month ? '' : '' //`${asMonth(entry.month)} ` : ''
   const year = entry.year ? entry.year : ''
   const stop = entry.journal || entry.volume || entry.number || entry.pages || entry.month || entry.year ? '.' : ''
   return (
