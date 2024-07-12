@@ -1,11 +1,11 @@
-import Entry from './Entry'
+// import Entry from './Entry'
 import styled from './Publication.module.css'
 import PropTypes from 'prop-types'
 
 const Publication = ({ entry }) => {
   return (
     <li className={styled.publication}>
-      <Entry entry={entry} />
+      {/* <Entry entry={entry} /> */}
       <details>
         <summary>Detail</summary>
         <div>
