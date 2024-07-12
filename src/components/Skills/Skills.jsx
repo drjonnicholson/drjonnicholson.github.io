@@ -20,7 +20,7 @@ const Skills = () => {
             <li key={text}>
               <Icon
                 name={icon}
-                size="2em"
+                size="3em"
                 className={styles.skill}
                 title={text}
                 data-text={text}

@@ -1,5 +1,5 @@
 @value vars: "../../variables.module.css";
-@value containerWidth from vars;
+@value containerwidth from vars;
 
 .blurb {
   composes: container block from global;

@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 @value vars: "./variables.module.css";
-@value surface600, surface000, containerWidth from vars;
+@value surface600, surface000, containerwidth from vars;
 
 /*
 @import url(https://fonts.googleapis.com/css?family=Muli:200,300,400,700);
@@ -99,7 +99,7 @@ strong {
   margin-right: auto;
   margin-left: auto;
   padding: 0 2em;
-  max-width: containerWidth;
+  max-width: containerwidth;
 }
 
 :global .block {

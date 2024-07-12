@@ -5,7 +5,7 @@ const SocialLink = ({ type, title, href }) => {
   return (
     <li>
       <a href={href} rel="noopener noreferrer" title={title}>
-        {<Icon name={type} size="2em" color="black" title={title} />}
+        {<Icon name={type} size="3em" color="black" title={title} />}
       </a>
     </li>
   )

@@ -1,5 +1,5 @@
 @value vars: "../../variables.module.css";
-@value surface100, surface300, surface500, surfacemixed100, containerWidth from vars;
+@value surface100, surface300, surface500, surfacemixed100, containerwidth from vars;
 
 .breakout {
   border-top: 1px solid surface100;
@@ -9,7 +9,7 @@
 
 .acclaim {
   composes: container from global;
-  padding: 1em 2em;
+  padding: 1em 2em !important;
 }
 
 .acclaim > ul {
@@ -18,7 +18,7 @@
   justify-content: space-between;
   padding: 10px 20px;
   width: 100%;
-  max-width: containerWidth;
+  max-width: containerwidth;
   overflow-x: auto;
   list-style: none;
 }
