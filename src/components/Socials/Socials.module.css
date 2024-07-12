@@ -1,0 +1,30 @@
+@value vars: "../../variables.module.css";
+@value surface100, surface400, containerWidth from vars;
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-bottom: 1px solid surface100;
+  background-color: surface400;
+  width: 100%;
+}
+
+.socials > ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 20px;
+  width: 100%;
+  max-width: containerWidth;
+  overflow-x: auto;
+  list-style: none;
+}
+
+.socials > ul > li {
+  display: flex;
+  flex: auto;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px;
+}

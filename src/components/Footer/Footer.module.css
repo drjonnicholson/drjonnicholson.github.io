@@ -1,0 +1,17 @@
+@value vars: "../../variables.module.css";
+@value surface100, surface400 from vars;
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-top: 1px solid surface100;
+  background-color: surface400;
+  padding: 2em 0;
+  width: 100%;
+}
+
+.footer div {
+  padding: 10px 20px;
+  width: 600px;
+}

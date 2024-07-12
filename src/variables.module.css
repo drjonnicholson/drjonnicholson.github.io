@@ -7,7 +7,7 @@
 @value primary600: #9ac1aa;
 
 /** Surface Colors */
-@value bodycolor: #b1b1b1;
+@value surface000: #b1b1b1;
 @value surface100: #2e3639;
 @value surface200: #42494c;
 @value surface300: #575e60;
@@ -24,4 +24,4 @@
 @value surfacemixed600: #9ba3a2;
 
 /** Sizes */
-@value containerwidth: 1000px;
+@value containerWidth: 1000px;

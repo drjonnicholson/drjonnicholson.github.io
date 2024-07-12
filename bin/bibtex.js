@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { readFileSync, writeFileSync } from 'fs'
-import pkg from '../package.json' with { type: 'json' }
+import pkg from '../package.json'
 import { BibtexParser } from 'bibtex-js-parser'
 import { resolve } from 'path'
 import { andList } from 'human-list'

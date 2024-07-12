@@ -1,0 +1,7 @@
+.publications {
+  composes: container block from global;
+}
+
+.small {
+  font-size: small;
+}

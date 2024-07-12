@@ -11,12 +11,14 @@ module.exports = {
       jsx: true,
     },
     sourceType: 'module',
+    ecmaVersion: 'latest',
   },
   plugins: [
     // Base plugins
     'json',
     // React
     'react',
+    'react-hooks',
     'react-perf',
     'import',
     // Accessibility
@@ -34,8 +36,9 @@ module.exports = {
     'prettier',
     // React
     'plugin:react/recommended',
-    'plugin:import/react',
+    'plugin:react-hooks/recommended',
     'plugin:react-perf/recommended',
+    'plugin:import/react',
     // Accessibility
     'plugin:jsx-a11y/recommended',
     // Testing

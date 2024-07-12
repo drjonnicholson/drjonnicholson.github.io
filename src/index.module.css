@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 @value vars: "./variables.module.css";
-@value surface600, bodycolor, containerwidth from vars;
+@value surface600, surface000, containerWidth from vars;
 
 /*
 @import url(https://fonts.googleapis.com/css?family=Muli:200,300,400,700);
@@ -41,7 +41,7 @@ body {
   font-size: 1.15rem;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  background-color: bodycolor;
+  background-color: surface000;
   min-width: 320px;
   font-style: normal;
   font-weight: 300;
@@ -99,7 +99,7 @@ strong {
   margin-right: auto;
   margin-left: auto;
   padding: 0 2em;
-  max-width: containerwidth;
+  max-width: containerWidth;
 }
 
 :global .block {

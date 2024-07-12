@@ -31,7 +31,9 @@
     "test": "echo \"Write tests!\" && exit 1"
   },
   "dependencies": {
-    "bibtex-js-parser": "^1.1.6"
+    "bibtex-js-parser": "^1.1.6",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
     "@eslint/js": "^9.6.0",

@@ -1,0 +1,100 @@
+@value vars: "../../variables.module.css";
+@value primary100, surface100 from vars;
+
+.overlay {
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  background-color: color-mix(in srgb, surface100 90%, transparent);
+}
+
+.loader,
+.loader div {
+  box-sizing: border-box;
+}
+
+.loader {
+  display: inline-block;
+  position: relative;
+  width: 160px;
+  height: 160px;
+}
+
+.loader div {
+  position: absolute;
+  animation: loader 1.2s linear infinite;
+  border-radius: 50%;
+  background: primary100;
+  width: 32px;
+  height: 32px;
+}
+
+.loader div:nth-child(1) {
+  top: 16px;
+  left: 16px;
+  animation-delay: 0s;
+}
+
+.loader div:nth-child(2) {
+  top: 16px;
+  left: 64px;
+  animation-delay: -0.4s;
+}
+
+.loader div:nth-child(3) {
+  top: 16px;
+  left: 112px;
+  animation-delay: -0.8s;
+}
+
+.loader div:nth-child(4) {
+  top: 64px;
+  left: 16px;
+  animation-delay: -0.4s;
+}
+
+.loader div:nth-child(5) {
+  top: 64px;
+  left: 64px;
+  animation-delay: -0.8s;
+}
+
+.loader div:nth-child(6) {
+  top: 64px;
+  left: 112px;
+  animation-delay: -1.2s;
+}
+
+.loader div:nth-child(7) {
+  top: 112px;
+  left: 16px;
+  animation-delay: -0.8s;
+}
+
+.loader div:nth-child(8) {
+  top: 112px;
+  left: 64px;
+  animation-delay: -1.2s;
+}
+
+.loader div:nth-child(9) {
+  top: 112px;
+  left: 112px;
+  animation-delay: -1.6s;
+}
+
+@keyframes loader {
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+}

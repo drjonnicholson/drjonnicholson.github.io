@@ -133,6 +133,9 @@ export default {
           target: jsconfig.compilerOptions.target,
           jsx: 'automatic',
         },
+        resolve: {
+          fullySpecified: false,
+        },
       },
       // Styling
       {
