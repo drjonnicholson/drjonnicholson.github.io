@@ -8,7 +8,7 @@ const Book = ({ entry }) => (
     {entry.editor && <>{entry.editor}, </>}
     {entry.address && <>{entry.address}: </>}
     {entry.publisher && <>{entry.publisher}, </>}
-    {entry.year && <>{entry.year}</>}.
+    {entry.year && entry.year}.
   </>
 )
 

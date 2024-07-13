@@ -16,7 +16,7 @@ const Conference = ({ entry }) => (
     {entry.address && <>{entry.address}. </>}
     {entry.publisher && <>{entry.publisher}, </>}
     {entry.month && <>{asMonth(entry.month)} </>}
-    {entry.year && <>{entry.year}</>}.
+    {entry.year && entry.year}.
   </>
 )
 

@@ -11,7 +11,7 @@ const InCollection = ({ entry }) => (
       </>
     )}
     {entry.edition && <>, {entry.edition} ed.</>}
-    {entry.editor && <>, {entry.editor}, </>}
+    {entry.editor && <>, {entry.editor}</>}
     {(entry.booktitle || entry.edition || entry.editor) && <>, </>}
     {entry.year && <> {entry.year}</>}
     {entry.volume && <>, vol. {entry.volume}</>}
