@@ -1,3 +1,3 @@
-import { default as Publications } from './Publications'
+import Publications from './Publications'
 
 export default Publications

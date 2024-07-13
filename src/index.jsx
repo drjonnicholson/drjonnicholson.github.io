@@ -1,5 +1,6 @@
 import { StrictMode, Suspense, lazy } from 'react'
 import { createRoot } from 'react-dom/client'
+import ErrorBoundary from './components/ErrorBoundary'
 import Loader from './components/Loader'
 import './index.module.css'
 
@@ -9,8 +10,10 @@ const root = createRoot(node)
 
 root.render(
   <StrictMode>
-    <Suspense fallback={<Loader />}>
-      <App />
-    </Suspense>
+    <ErrorBoundary>
+      <Suspense fallback={<Loader />}>
+        <App />
+      </Suspense>
+    </ErrorBoundary>
   </StrictMode>,
 )

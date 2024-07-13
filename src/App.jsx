@@ -1,5 +1,6 @@
 import About from './components/About'
 import Acclaim from './components/Acclaim'
+import ErrorBoundary from './components/ErrorBoundary'
 import Experience from './components/Experience'
 import Footer from './components/Footer'
 import Header from './components/Header'
@@ -8,7 +9,7 @@ import Skills from './components/Skills'
 
 const App = () => {
   return (
-    <div>
+    <ErrorBoundary>
       <Header />
       <main>
         <About />
@@ -18,7 +19,7 @@ const App = () => {
         <Publications />
       </main>
       <Footer />
-    </div>
+    </ErrorBoundary>
   )
 }
 

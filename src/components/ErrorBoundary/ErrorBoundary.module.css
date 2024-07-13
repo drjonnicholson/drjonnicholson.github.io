@@ -1,0 +1,13 @@
+@value vars: "../../variables.module.css";
+@value surface100, surfacemixed600, containerwidth from vars;
+
+.error {
+  background-color: surfacemixed600;
+  padding: 2em;
+  width: 100%;
+  height: 100%;
+}
+
+.error pre {
+  font-size: medium;
+}

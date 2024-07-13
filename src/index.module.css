@@ -91,8 +91,10 @@ strong {
   font-weight: 500;
 }
 
-#root {
+:global #root {
   isolation: isolate;
+  width: 100vw;
+  height: 100vh;
 }
 
 :global .container {
