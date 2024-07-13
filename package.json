@@ -142,7 +142,7 @@
         "icon": "html"
       },
       {
-        "text": "CSS including CSS Modules, SASS, and LESS",
+        "text": "CSS including CSS Modules, SASS, and LESS, with attention to accessibility standards",
         "icon": "css"
       },
       {
@@ -158,7 +158,7 @@
         "icon": "nodejs"
       },
       {
-        "text": "Creating NPM packages, on both public and private repositories",
+        "text": "Creating NPM packages, having pubished to both public and private repositories",
         "icon": "npm"
       },
       {
@@ -174,11 +174,11 @@
         "icon": "ruby"
       },
       {
-        "text": "SQL in its various flavours (MySQL / MSSQL / Postgres / SQLite)",
+        "text": "SQL in its various flavours (MySQL / MSSQL / Postgres / SQLite) for applicatons and data analysis",
         "icon": "database"
       },
       {
-        "text": "GIT for version control for a good decade, not to mention CVS / Subversion",
+        "text": "GIT for version control for a good decade, not to mention CVS / Subversion (although many many years ago)",
         "icon": "git"
       },
       {
@@ -190,7 +190,7 @@
         "icon": "api"
       },
       {
-        "text": "Secure by design / data protection by design and default",
+        "text": "Architecting and delivering solutions that are secure by design / data protection by design and default",
         "icon": "security"
       }
     ]
